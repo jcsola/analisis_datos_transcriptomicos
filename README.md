@@ -1,2 +1,2 @@
-# proyecto_de_portafolio
-Repositorio con Datos del Proyecto de Portafolio
+# Portfolio Project
+Repository with Portfolio Project Data
