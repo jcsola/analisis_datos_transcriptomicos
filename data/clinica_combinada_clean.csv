@@ -1,0 +1,1112 @@
+project,submitter_id,morphology,tissue_or_organ_of_origin,days_to_last_follow_up,primary_diagnosis,year_of_diagnosis,prior_treatment,race,gender,ethnicity,vital_status,age_at_index,days_to_death,year_of_death,treatments_pharmaceutical_treatment_or_therapy,treatments_radiation_treatment_or_therapy
+TCGA-GBM,TCGA-06-0122,9440/3,"Brain, NOS",8,Glioblastoma,2006,no,white,female,others,0,84,187,2006,no,no
+TCGA-GBM,TCGA-02-0016,9440/3,"Brain, NOS",1699,Glioblastoma,2004,no,white,male,others,0,50,2648,0,yes,yes
+TCGA-GBM,TCGA-06-2566,9440/3,"Brain, NOS",182,Glioblastoma,2009,no,white,female,others,0,23,182,2009,yes,yes
+TCGA-GBM,TCGA-12-5301,9440/3,"Brain, NOS",62,Glioblastoma,2010,no,white,male,others,0,59,62,2010,yes,yes
+TCGA-GBM,TCGA-41-2573,9440/3,"Brain, NOS",272,Glioblastoma,2009,no,white,male,others,1,59,0,0,yes,yes
+TCGA-GBM,TCGA-12-0780,9440/3,"Brain, NOS",434,Glioblastoma,2006,no,white,female,others,0,51,452,2007,yes,yes
+TCGA-GBM,TCGA-06-0167,9440/3,"Brain, NOS",0,Glioblastoma,2001,no,black or african american,male,others,0,44,347,2001,yes,yes
+TCGA-GBM,TCGA-14-0786,9440/3,"Brain, NOS",701,Glioblastoma,1998,no,white,female,others,0,50,701,1999,yes,yes
+TCGA-GBM,TCGA-19-A6J4,9440/3,"Brain, NOS",0,Glioblastoma,2013,no,black or african american,male,others,0,68,121,2013,no,no
+TCGA-GBM,TCGA-06-0413,9440/3,"Brain, NOS",5,Glioblastoma,1995,no,white,female,others,0,77,96,1995,no,no
+TCGA-GBM,TCGA-08-0516,9440/3,"Brain, NOS",561,Glioblastoma,2001,no,white,male,others,0,14,596,2002,no,yes
+TCGA-GBM,TCGA-06-6701,9440/3,"Brain, NOS",151,Glioblastoma,2011,no,white,male,others,1,60,0,0,yes,yes
+TCGA-GBM,TCGA-08-0511,9440/3,"Brain, NOS",235,Glioblastoma,2000,no,white,male,others,0,69,235,2000,yes,yes
+TCGA-GBM,TCGA-19-5947,9440/3,"Brain, NOS",202,Glioblastoma,2010,no,black or african american,female,others,0,47,202,2010,no,yes
+TCGA-GBM,TCGA-06-1802,9440/3,"Brain, NOS",240,Glioblastoma,2008,no,white,male,others,0,61,466,0,yes,yes
+TCGA-GBM,TCGA-06-6697,9440/3,"Brain, NOS",391,Glioblastoma,2010,no,white,male,others,1,65,0,0,yes,yes
+TCGA-GBM,TCGA-08-0521,9440/3,"Brain, NOS",146,Glioblastoma,2002,no,black or african american,male,hispanic or latino,0,17,146,2002,yes,yes
+TCGA-GBM,TCGA-02-0113,9440/3,"Brain, NOS",2818,Glioblastoma,2001,yes,white,female,others,1,43,0,0,yes,yes
+TCGA-GBM,TCGA-06-0187,9440/3,"Brain, NOS",801,Glioblastoma,2006,no,white,male,others,0,69,828,2008,yes,yes
+TCGA-GBM,TCGA-12-0822,9440/3,"Brain, NOS",715,Glioblastoma,1998,no,white,male,others,0,46,715,1999,yes,yes
+TCGA-GBM,TCGA-28-5209,9440/3,"Brain, NOS",442,Glioblastoma,2010,no,white,female,others,1,66,0,0,yes,yes
+TCGA-GBM,TCGA-28-1749,9440/3,"Brain, NOS",280,Glioblastoma,2009,no,white,male,others,1,73,0,0,yes,yes
+TCGA-GBM,TCGA-06-0156,9440/3,"Brain, NOS",164,Glioblastoma,1998,no,white,male,others,0,57,178,1998,yes,yes
+TCGA-GBM,TCGA-19-0963,9440/3,"Brain, NOS",434,Glioblastoma,2008,no,white,male,others,0,61,434,2009,yes,yes
+TCGA-GBM,TCGA-06-2563,9440/3,"Brain, NOS",932,Glioblastoma,2009,no,white,female,others,1,72,0,0,yes,yes
+TCGA-GBM,TCGA-19-1388,9440/3,"Brain, NOS",394,Glioblastoma,2008,no,white,male,others,0,58,394,2009,yes,yes
+TCGA-GBM,TCGA-26-1438,9440/3,"Brain, NOS",305,Glioblastoma,2008,no,white,male,others,1,36,0,0,yes,yes
+TCGA-GBM,TCGA-08-0355,9440/3,"Brain, NOS",685,Glioblastoma,2003,no,white,female,others,0,30,747,2005,yes,yes
+TCGA-GBM,TCGA-19-5954,9440/3,"Brain, NOS",242,Glioblastoma,2010,no,white,female,others,0,72,368,0,yes,yes
+TCGA-GBM,TCGA-02-0337,9440/3,"Brain, NOS",764,Glioblastoma,1996,no,white,male,others,0,48,764,1998,yes,yes
+TCGA-GBM,TCGA-06-0158,9440/3,"Brain, NOS",166,Glioblastoma,1998,no,white,male,others,0,73,329,1998,yes,yes
+TCGA-GBM,TCGA-06-0213,9440/3,"Brain, NOS",6,Glioblastoma,1998,no,white,female,others,0,55,16,1998,no,no
+TCGA-GBM,TCGA-27-1837,9440/3,"Brain, NOS",427,Glioblastoma,2007,no,white,male,others,0,36,427,2008,yes,yes
+TCGA-GBM,TCGA-08-0525,9440/3,"Brain, NOS",486,Glioblastoma,2001,yes,not reported,male,others,0,52,486,2002,yes,yes
+TCGA-GBM,TCGA-06-1801,9440/3,"Brain, NOS",263,Glioblastoma,2008,no,white,female,others,0,56,360,0,yes,yes
+TCGA-GBM,TCGA-12-0620,9440/3,"Brain, NOS",181,Glioblastoma,2005,no,white,male,others,0,57,318,2005,yes,yes
+TCGA-GBM,TCGA-06-0149,9440/3,"Brain, NOS",239,Glioblastoma,2005,no,white,female,others,0,74,262,2005,yes,yes
+TCGA-GBM,TCGA-08-0344,9440/3,"Brain, NOS",3310,Glioblastoma,1992,no,white,male,others,0,66,3524,2001,yes,yes
+TCGA-GBM,TCGA-19-2623,9440/3,"Brain, NOS",229,Glioblastoma,2009,no,white,male,others,1,65,0,0,yes,yes
+TCGA-GBM,TCGA-06-0184,9440/3,"Brain, NOS",1228,Glioblastoma,2005,no,white,male,others,0,63,2126,0,yes,yes
+TCGA-GBM,TCGA-76-4929,9440/3,"Brain, NOS",111,Glioblastoma,2005,no,white,female,others,0,76,111,2005,no,no
+TCGA-GBM,TCGA-06-6698,9440/3,"Brain, NOS",145,Glioblastoma,2011,no,white,female,others,1,53,0,0,yes,yes
+TCGA-GBM,TCGA-41-5651,9440/3,"Brain, NOS",351,Glioblastoma,2010,no,black or african american,female,others,0,59,460,0,yes,yes
+TCGA-GBM,TCGA-12-0776,9440/3,"Brain, NOS",277,Glioblastoma,2005,no,white,male,others,0,52,296,2005,yes,yes
+TCGA-GBM,TCGA-02-0009,9440/3,"Brain, NOS",322,Glioblastoma,2003,no,white,female,others,0,61,322,2003,no,yes
+TCGA-GBM,TCGA-06-0882,9440/3,"Brain, NOS",165,Glioblastoma,2008,no,white,male,others,0,30,632,0,yes,yes
+TCGA-GBM,TCGA-06-0182,9440/3,"Brain, NOS",77,Glioblastoma,2004,no,white,male,others,0,76,111,2004,no,no
+TCGA-GBM,TCGA-06-0175,9440/3,"Brain, NOS",83,Glioblastoma,2003,no,white,male,others,0,69,123,2003,yes,yes
+TCGA-GBM,TCGA-06-0124,9440/3,"Brain, NOS",123,Glioblastoma,1998,no,white,male,others,0,67,620,1999,yes,yes
+TCGA-GBM,TCGA-26-1442,9440/3,"Brain, NOS",953,Glioblastoma,2008,no,white,male,others,1,43,0,0,yes,yes
+TCGA-GBM,TCGA-RR-A6KA,9440/3,Frontal lobe,0,Glioblastoma,2012,no,black or african american,female,others,0,72,191,2012,no,no
+TCGA-GBM,TCGA-74-6584,9440/3,"Brain, NOS",228,Glioblastoma,2010,no,not reported,female,others,1,55,0,0,yes,yes
+TCGA-GBM,TCGA-28-5216,9440/3,"Brain, NOS",415,Glioblastoma,2010,no,white,male,others,1,52,0,0,yes,yes
+TCGA-GBM,TCGA-32-4213,9440/3,"Brain, NOS",604,Glioblastoma,2009,no,white,female,others,1,47,0,0,yes,yes
+TCGA-GBM,TCGA-32-1982,9440/3,"Brain, NOS",142,Glioblastoma,2008,no,white,female,others,0,76,142,2008,no,no
+TCGA-GBM,TCGA-02-2466,9440/3,"Brain, NOS",511,Glioblastoma,2007,no,white,male,others,0,61,511,2008,yes,yes
+TCGA-GBM,TCGA-02-0023,9440/3,"Brain, NOS",612,Glioblastoma,2003,no,white,female,others,0,38,612,2004,yes,yes
+TCGA-GBM,TCGA-08-0509,9440/3,"Brain, NOS",17,Glioblastoma,1999,no,black or african american,male,others,0,63,382,2000,no,no
+TCGA-GBM,TCGA-76-6282,9440/3,"Brain, NOS",519,Glioblastoma,2007,no,white,male,others,0,63,519,2008,yes,yes
+TCGA-GBM,TCGA-02-0048,9440/3,"Brain, NOS",98,Glioblastoma,2005,no,not reported,male,others,0,80,98,2005,no,yes
+TCGA-GBM,TCGA-12-0656,9440/3,"Brain, NOS",2005,Glioblastoma,1997,no,black or african american,female,others,0,48,2883,2004,yes,yes
+TCGA-GBM,TCGA-06-0219,9440/3,"Brain, NOS",11,Glioblastoma,2000,no,white,male,others,0,67,22,2000,no,no
+TCGA-GBM,TCGA-15-1449,9440/3,"Brain, NOS",0,Glioblastoma,2006,no,white,male,others,0,65,404,2007,yes,yes
+TCGA-GBM,TCGA-74-6581,9440/3,"Brain, NOS",250,Glioblastoma,2010,no,not reported,male,others,1,77,0,0,yes,yes
+TCGA-GBM,TCGA-06-0397,9440/3,"Brain, NOS",168,Glioblastoma,1993,no,white,female,others,0,57,274,1993,yes,yes
+TCGA-GBM,TCGA-06-0876,9440/3,"Brain, NOS",1405,Glioblastoma,2008,no,black or african american,female,others,1,72,0,0,yes,yes
+TCGA-GBM,TCGA-08-0531,9440/3,"Brain, NOS",168,Glioblastoma,2005,no,white,male,others,0,64,230,2005,yes,yes
+TCGA-GBM,TCGA-06-2565,9440/3,"Brain, NOS",207,Glioblastoma,2009,no,asian,male,others,0,59,506,0,yes,yes
+TCGA-GBM,TCGA-12-1597,9440/3,"Brain, NOS",427,Glioblastoma,2002,no,white,female,others,0,62,675,2003,yes,yes
+TCGA-GBM,TCGA-12-1598,9440/3,"Brain, NOS",287,Glioblastoma,2006,no,white,female,others,0,75,476,2007,yes,yes
+TCGA-GBM,TCGA-12-5295,9440/3,"Brain, NOS",399,Glioblastoma,2008,no,white,female,others,0,60,454,2009,yes,yes
+TCGA-GBM,TCGA-02-0115,9440/3,"Brain, NOS",476,Glioblastoma,2006,no,asian,male,others,0,52,476,2007,yes,yes
+TCGA-GBM,TCGA-41-2575,9440/3,"Brain, NOS",290,Glioblastoma,2009,no,white,male,others,0,75,290,2009,yes,yes
+TCGA-GBM,TCGA-06-0119,9440/3,"Brain, NOS",0,Glioblastoma,2005,no,white,female,others,0,81,82,2005,yes,no
+TCGA-GBM,TCGA-02-0085,9440/3,"Brain, NOS",1561,Glioblastoma,2003,no,white,female,others,0,63,1561,2007,yes,yes
+TCGA-GBM,TCGA-06-2559,9440/3,"Brain, NOS",150,Glioblastoma,2009,no,white,male,others,0,83,150,2009,yes,yes
+TCGA-GBM,TCGA-02-0266,9440/3,"Brain, NOS",539,Glioblastoma,1990,no,not reported,male,hispanic or latino,0,14,539,1991,no,yes
+TCGA-GBM,TCGA-12-3653,9440/3,"Brain, NOS",357,Glioblastoma,2008,no,white,female,others,0,34,442,2009,yes,yes
+TCGA-GBM,TCGA-19-1387,9440/3,"Brain, NOS",181,Glioblastoma,2008,no,white,male,others,1,81,0,0,yes,yes
+TCGA-GBM,TCGA-06-0939,9440/3,"Brain, NOS",637,Glioblastoma,2008,no,white,female,others,0,79,814,0,yes,yes
+TCGA-GBM,TCGA-28-2513,9440/3,"Brain, NOS",222,Glioblastoma,2009,no,white,female,others,1,69,0,0,yes,yes
+TCGA-GBM,TCGA-14-0736,9440/3,"Brain, NOS",460,Glioblastoma,1999,no,black or african american,male,others,0,49,460,2000,yes,yes
+TCGA-GBM,TCGA-08-0386,9440/3,"Brain, NOS",478,Glioblastoma,2005,no,white,male,others,0,74,548,2006,yes,yes
+TCGA-GBM,TCGA-14-0862,9440/3,"Brain, NOS",88,Glioblastoma,2002,no,white,male,others,0,60,88,2002,yes,no
+TCGA-GBM,TCGA-28-5211,9440/3,"Brain, NOS",358,Glioblastoma,2010,no,black or african american,male,others,1,42,0,0,yes,yes
+TCGA-GBM,TCGA-02-0269,9440/3,"Brain, NOS",327,Glioblastoma,1990,no,white,male,others,0,68,327,1990,no,yes
+TCGA-GBM,TCGA-02-0106,9440/3,"Brain, NOS",355,Glioblastoma,2004,no,white,male,others,0,54,355,2004,yes,yes
+TCGA-GBM,TCGA-06-0128,9440/3,"Brain, NOS",691,Glioblastoma,2000,no,white,male,others,0,66,691,2001,yes,yes
+TCGA-GBM,TCGA-06-5858,9440/3,"Brain, NOS",187,Glioblastoma,2010,no,white,female,others,1,45,0,0,yes,yes
+TCGA-GBM,TCGA-02-0037,9440/3,"Brain, NOS",110,Glioblastoma,2004,no,white,female,others,0,74,110,2004,no,yes
+TCGA-GBM,TCGA-06-0877,9440/3,"Brain, NOS",204,Glioblastoma,2008,no,white,male,others,0,78,0,0,no,yes
+TCGA-GBM,TCGA-12-3651,9440/3,"Brain, NOS",358,Glioblastoma,2008,no,white,male,others,0,77,386,2009,yes,yes
+TCGA-GBM,TCGA-28-2514,9440/3,"Brain, NOS",160,Glioblastoma,2009,no,asian,male,others,1,45,0,0,yes,yes
+TCGA-GBM,TCGA-32-1980,9440/3,"Brain, NOS",36,Glioblastoma,2008,no,white,male,others,0,72,36,2008,no,no
+TCGA-GBM,TCGA-19-1786,9440/3,"Brain, NOS",218,Glioblastoma,2008,no,asian,female,others,1,64,0,0,no,yes
+TCGA-GBM,TCGA-06-2561,9440/3,"Brain, NOS",282,Glioblastoma,2009,no,white,female,others,0,53,537,0,yes,yes
+TCGA-GBM,TCGA-28-1747,9440/3,"Brain, NOS",77,Glioblastoma,2008,no,white,male,others,0,44,77,2008,yes,yes
+TCGA-GBM,TCGA-12-0772,9440/3,"Brain, NOS",1615,Glioblastoma,2003,no,white,male,others,0,46,1638,2007,yes,yes
+TCGA-GBM,TCGA-02-0107,9440/3,"Brain, NOS",537,Glioblastoma,2004,yes,white,male,others,0,56,537,2005,yes,yes
+TCGA-GBM,TCGA-76-6657,9440/3,"Brain, NOS",153,Glioblastoma,2010,no,white,male,others,0,74,153,2010,yes,yes
+TCGA-GBM,TCGA-19-0960,9440/3,"Brain, NOS",262,Glioblastoma,2008,no,white,female,others,1,83,0,0,yes,yes
+TCGA-GBM,TCGA-06-0745,9440/3,"Brain, NOS",164,Glioblastoma,2007,no,white,male,others,0,59,239,2007,yes,yes
+TCGA-GBM,TCGA-02-0068,9440/3,"Brain, NOS",804,Glioblastoma,2006,no,white,male,others,0,57,804,2008,yes,yes
+TCGA-GBM,TCGA-16-0850,9440/3,"Brain, NOS",496,Glioblastoma,2007,no,white,female,others,0,52,498,2008,yes,yes
+TCGA-GBM,TCGA-06-0126,9440/3,"Brain, NOS",3,Glioblastoma,2001,no,white,male,others,0,86,211,2001,no,no
+TCGA-GBM,TCGA-14-1821,9440/3,"Brain, NOS",541,Glioblastoma,2005,no,white,male,others,0,31,541,2006,yes,yes
+TCGA-GBM,TCGA-06-6389,9440/3,"Brain, NOS",237,Glioblastoma,2011,no,white,female,others,1,49,0,0,yes,yes
+TCGA-GBM,TCGA-06-5416,9440/3,"Brain, NOS",204,Glioblastoma,2010,no,white,female,others,1,23,0,0,yes,yes
+TCGA-GBM,TCGA-02-0055,9440/3,"Brain, NOS",76,Glioblastoma,2005,no,white,female,others,0,62,76,2005,yes,yes
+TCGA-GBM,TCGA-06-0162,9440/3,"Brain, NOS",78,Glioblastoma,2000,no,white,female,others,0,47,104,2000,yes,yes
+TCGA-GBM,TCGA-12-0778,9440/3,"Brain, NOS",452,Glioblastoma,2006,no,white,male,others,0,53,454,2007,yes,yes
+TCGA-GBM,TCGA-06-6700,9440/3,"Brain, NOS",145,Glioblastoma,2011,no,white,male,others,1,76,0,0,yes,yes
+TCGA-GBM,TCGA-06-6390,9440/3,"Brain, NOS",164,Glioblastoma,2011,no,white,male,others,0,58,164,2011,yes,yes
+TCGA-GBM,TCGA-06-5411,9440/3,"Brain, NOS",254,Glioblastoma,2010,no,white,male,others,0,51,254,2010,yes,yes
+TCGA-GBM,TCGA-12-3648,9440/3,"Brain, NOS",784,Glioblastoma,2007,no,white,female,others,0,61,819,2009,yes,yes
+TCGA-GBM,TCGA-06-A7TK,9440/3,Frontal lobe,164,Glioblastoma,2013,no,black or african american,male,others,0,64,444,0,yes,yes
+TCGA-GBM,TCGA-32-1977,9440/3,"Brain, NOS",3,Glioblastoma,2009,no,white,female,hispanic or latino,1,63,0,0,no,no
+TCGA-GBM,TCGA-19-5959,9440/3,"Brain, NOS",161,Glioblastoma,2010,no,white,female,others,0,77,511,0,yes,yes
+TCGA-GBM,TCGA-41-3915,9440/3,"Brain, NOS",360,Glioblastoma,2010,no,white,male,others,0,48,360,0,yes,yes
+TCGA-GBM,TCGA-76-4928,9440/3,"Brain, NOS",94,Glioblastoma,2005,no,white,female,others,0,85,94,2005,yes,yes
+TCGA-GBM,TCGA-02-0089,9440/3,"Brain, NOS",516,Glioblastoma,2005,yes,white,male,others,0,52,516,2006,yes,yes
+TCGA-GBM,TCGA-02-0456,9440/3,"Brain, NOS",102,Glioblastoma,1998,no,white,female,others,0,67,102,1998,no,yes
+TCGA-GBM,TCGA-14-1825,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,male,others,0,70,232,2007,yes,yes
+TCGA-GBM,TCGA-06-0189,9440/3,"Brain, NOS",454,Glioblastoma,2006,no,white,male,others,0,55,469,2007,yes,yes
+TCGA-GBM,TCGA-02-0285,9440/3,"Brain, NOS",422,Glioblastoma,1991,no,white,female,others,0,50,422,1992,no,yes
+TCGA-GBM,TCGA-19-2629,9440/3,"Brain, NOS",501,Glioblastoma,2009,no,white,male,others,0,60,737,2011,yes,yes
+TCGA-GBM,TCGA-08-0348,9440/3,"Brain, NOS",316,Glioblastoma,2000,no,white,male,others,0,63,370,2001,yes,yes
+TCGA-GBM,TCGA-14-1829,9440/3,"Brain, NOS",218,Glioblastoma,2009,no,black or african american,male,others,1,57,0,0,yes,yes
+TCGA-GBM,TCGA-06-0166,9440/3,"Brain, NOS",161,Glioblastoma,2001,no,white,male,others,0,51,178,2001,yes,yes
+TCGA-GBM,TCGA-26-1443,9440/3,"Brain, NOS",217,Glioblastoma,2008,no,white,female,others,1,60,0,0,yes,yes
+TCGA-GBM,TCGA-12-0818,9440/3,"Brain, NOS",2791,Glioblastoma,1994,no,white,female,others,0,45,2791,2001,yes,yes
+TCGA-GBM,TCGA-26-6174,9440/3,"Brain, NOS",71,Glioblastoma,2011,no,white,female,others,1,65,0,0,yes,yes
+TCGA-GBM,TCGA-12-0654,9440/3,"Brain, NOS",218,Glioblastoma,2000,no,white,female,others,0,48,231,2000,yes,yes
+TCGA-GBM,TCGA-08-0245,9440/3,"Brain, NOS",1057,Glioblastoma,2001,no,black or african american,female,others,0,31,1151,2004,yes,yes
+TCGA-GBM,TCGA-15-1444,9440/3,"Brain, NOS",0,Glioblastoma,2004,no,white,male,others,0,21,1537,2008,yes,yes
+TCGA-GBM,TCGA-28-2512,9440/3,"Brain, NOS",343,Glioblastoma,2009,no,white,male,others,0,37,343,2009,yes,no
+TCGA-GBM,TCGA-06-0206,9440/3,"Brain, NOS",197,Glioblastoma,1996,no,white,male,others,0,40,233,1996,yes,yes
+TCGA-GBM,TCGA-27-1836,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,female,others,0,33,914,2009,yes,yes
+TCGA-GBM,TCGA-02-0422,9440/3,"Brain, NOS",441,Glioblastoma,1996,no,white,male,others,0,50,441,1997,yes,yes
+TCGA-GBM,TCGA-74-6578,9440/3,"Brain, NOS",436,Glioblastoma,2010,no,not reported,male,others,1,58,0,0,yes,yes
+TCGA-GBM,TCGA-02-0054,9440/3,"Brain, NOS",199,Glioblastoma,2005,no,white,female,others,0,44,199,2005,yes,yes
+TCGA-GBM,TCGA-32-5222,9440/3,"Brain, NOS",323,Glioblastoma,2010,no,white,male,others,0,66,585,0,yes,yes
+TCGA-GBM,TCGA-12-3646,9440/3,"Brain, NOS",1315,Glioblastoma,2005,no,white,female,others,0,59,1339,2008,yes,yes
+TCGA-GBM,TCGA-32-2632,9440/3,"Brain, NOS",0,Glioblastoma,2008,no,white,male,others,0,80,269,2008,no,no
+TCGA-GBM,TCGA-RR-A6KC,9440/3,Temporal lobe,0,Glioblastoma,2010,no,black or african american,male,others,0,55,625,2011,yes,yes
+TCGA-GBM,TCGA-06-0410,9440/3,"Brain, NOS",143,Glioblastoma,1995,no,white,female,others,0,76,143,1995,no,no
+TCGA-GBM,TCGA-08-0520,9440/3,"Brain, NOS",327,Glioblastoma,2001,no,white,male,others,0,70,327,2001,yes,yes
+TCGA-GBM,TCGA-32-4211,9440/3,"Brain, NOS",383,Glioblastoma,2010,no,white,male,others,0,56,383,2011,yes,yes
+TCGA-GBM,TCGA-06-0157,9440/3,"Brain, NOS",97,Glioblastoma,1998,no,white,female,others,0,63,97,1998,no,yes
+TCGA-GBM,TCGA-02-2485,9440/3,"Brain, NOS",470,Glioblastoma,2009,no,black or african american,male,others,1,53,0,0,yes,yes
+TCGA-GBM,TCGA-08-0524,9440/3,"Brain, NOS",199,Glioblastoma,2002,no,white,female,others,0,17,221,2002,yes,yes
+TCGA-GBM,TCGA-08-0389,9440/3,"Brain, NOS",97,Glioblastoma,2005,no,not reported,male,others,0,59,467,2006,yes,yes
+TCGA-GBM,TCGA-32-2616,9440/3,"Brain, NOS",224,Glioblastoma,2008,no,white,female,hispanic or latino,0,48,224,2008,yes,yes
+TCGA-GBM,TCGA-19-1390,9440/3,"Brain, NOS",772,Glioblastoma,2007,no,white,female,others,0,63,772,2009,no,no
+TCGA-GBM,TCGA-12-0616,9440/3,"Brain, NOS",439,Glioblastoma,2006,no,white,female,others,0,36,448,2007,yes,yes
+TCGA-GBM,TCGA-06-0238,9440/3,"Brain, NOS",359,Glioblastoma,2007,no,white,male,others,0,46,405,2008,yes,yes
+TCGA-GBM,TCGA-06-0178,9440/3,"Brain, NOS",1642,Glioblastoma,2004,no,white,male,others,0,38,2681,0,yes,yes
+TCGA-GBM,TCGA-19-5952,9440/3,"Brain, NOS",567,Glioblastoma,2010,no,white,male,others,0,62,575,2011,no,yes
+TCGA-GBM,TCGA-19-4068,9440/3,"Brain, NOS",137,Glioblastoma,2009,no,white,female,others,1,68,0,0,yes,yes
+TCGA-GBM,TCGA-16-0846,9440/3,"Brain, NOS",119,Glioblastoma,2006,no,white,male,others,0,85,119,2006,no,no
+TCGA-GBM,TCGA-08-0357,9440/3,"Brain, NOS",1084,Glioblastoma,2004,no,white,male,others,0,49,1143,2007,yes,yes
+TCGA-GBM,TCGA-02-0332,9440/3,"Brain, NOS",782,Glioblastoma,1995,no,white,female,others,0,46,782,1997,yes,yes
+TCGA-GBM,TCGA-02-0324,9440/3,"Brain, NOS",235,Glioblastoma,1995,no,not reported,female,others,0,69,235,1995,no,yes
+TCGA-GBM,TCGA-08-0346,9440/3,"Brain, NOS",132,Glioblastoma,1993,no,not reported,male,others,0,69,256,1993,yes,yes
+TCGA-GBM,TCGA-06-2567,9440/3,"Brain, NOS",133,Glioblastoma,2009,no,white,male,others,0,65,133,2009,yes,yes
+TCGA-GBM,TCGA-06-0192,9440/3,"Brain, NOS",557,Glioblastoma,2007,no,white,male,others,0,58,1185,0,yes,yes
+TCGA-GBM,TCGA-15-0742,9440/3,"Brain, NOS",0,Glioblastoma,2005,no,white,male,others,0,65,419,2006,yes,yes
+TCGA-GBM,TCGA-06-0150,9440/3,"Brain, NOS",0,Glioblastoma,1995,no,white,male,others,0,45,592,1996,yes,yes
+TCGA-GBM,TCGA-08-0345,9440/3,"Brain, NOS",53,Glioblastoma,1992,no,not reported,female,others,0,71,53,1992,no,yes
+TCGA-GBM,TCGA-28-1757,9440/3,"Brain, NOS",4,Glioblastoma,2009,no,white,male,others,1,71,0,0,no,no
+TCGA-GBM,TCGA-32-4208,9440/3,"Brain, NOS",643,Glioblastoma,2009,no,white,male,others,1,25,0,0,yes,yes
+TCGA-GBM,TCGA-02-0102,9440/3,"Brain, NOS",822,Glioblastoma,2004,yes,white,male,others,0,42,822,2006,yes,yes
+TCGA-GBM,TCGA-02-0052,9440/3,"Brain, NOS",383,Glioblastoma,2005,no,white,male,others,0,49,383,2006,yes,yes
+TCGA-GBM,TCGA-27-1833,9440/3,"Brain, NOS",555,Glioblastoma,2006,no,white,female,others,0,67,737,2008,yes,yes
+TCGA-GBM,TCGA-27-1831,9440/3,"Brain, NOS",505,Glioblastoma,2006,no,white,male,others,0,66,505,2007,yes,yes
+TCGA-GBM,TCGA-06-0139,9440/3,"Brain, NOS",327,Glioblastoma,2006,no,white,male,others,0,40,362,2006,yes,yes
+TCGA-GBM,TCGA-14-0867,9440/3,"Brain, NOS",62,Glioblastoma,2002,no,white,male,others,0,67,62,2002,yes,no
+TCGA-GBM,TCGA-4W-AA9R,9440/3,"Brain, NOS",124,Glioblastoma,2012,no,black or african american,male,others,1,61,0,0,no,yes
+TCGA-GBM,TCGA-06-0211,9440/3,"Brain, NOS",360,Glioblastoma,1997,no,white,male,others,0,47,360,1997,yes,yes
+TCGA-GBM,TCGA-14-1458,9440/3,"Brain, NOS",187,Glioblastoma,2008,no,white,male,others,0,54,203,2008,yes,yes
+TCGA-GBM,TCGA-02-0080,9440/3,"Brain, NOS",2729,Glioblastoma,1999,yes,white,male,others,0,28,2729,2006,yes,yes
+TCGA-GBM,TCGA-06-0127,9440/3,"Brain, NOS",109,Glioblastoma,2002,no,white,male,others,0,67,121,2002,yes,yes
+TCGA-GBM,TCGA-12-3650,9440/3,"Brain, NOS",333,Glioblastoma,2008,no,white,male,others,0,46,333,2008,yes,yes
+TCGA-GBM,TCGA-06-0159,9440/3,"Brain, NOS",0,Glioblastoma,1998,no,white,male,others,0,74,287,1998,yes,yes
+TCGA-GBM,TCGA-12-3644,9440/3,"Brain, NOS",1807,Glioblastoma,2004,no,white,female,others,0,47,1818,2008,yes,yes
+TCGA-GBM,TCGA-32-1973,9440/3,"Brain, NOS",641,Glioblastoma,2008,no,white,male,hispanic or latino,0,21,641,2009,yes,yes
+TCGA-GBM,TCGA-08-0356,9440/3,"Brain, NOS",447,Glioblastoma,2004,no,white,female,others,0,59,946,2006,yes,yes
+TCGA-GBM,TCGA-26-6173,9440/3,"Brain, NOS",241,Glioblastoma,2010,no,white,male,others,1,57,0,0,yes,yes
+TCGA-GBM,TCGA-14-1401,9440/3,"Brain, NOS",114,Glioblastoma,2004,no,white,male,others,0,54,114,2004,yes,no
+TCGA-GBM,TCGA-12-0670,9440/3,"Brain, NOS",790,Glioblastoma,2001,no,white,male,others,0,60,790,2003,yes,yes
+TCGA-GBM,TCGA-14-1452,9440/3,"Brain, NOS",216,Glioblastoma,2005,no,white,male,others,0,60,216,2005,yes,yes
+TCGA-GBM,TCGA-14-1827,9440/3,"Brain, NOS",179,Glioblastoma,1998,no,white,male,others,0,51,179,1998,yes,no
+TCGA-GBM,TCGA-06-0879,9440/3,"Brain, NOS",699,Glioblastoma,2008,no,white,male,others,0,52,1229,0,yes,yes
+TCGA-GBM,TCGA-06-0155,9440/3,"Brain, NOS",263,Glioblastoma,1998,no,white,male,others,0,61,318,1998,yes,yes
+TCGA-GBM,TCGA-02-0059,9440/3,"Brain, NOS",291,Glioblastoma,2005,no,white,female,others,0,68,291,2005,no,yes
+TCGA-GBM,TCGA-02-0007,9440/3,"Brain, NOS",705,Glioblastoma,2002,yes,white,female,others,0,40,705,2003,yes,yes
+TCGA-GBM,TCGA-19-1386,9440/3,"Brain, NOS",276,Glioblastoma,2008,no,white,male,others,0,51,276,2008,yes,yes
+TCGA-GBM,TCGA-02-0114,9440/3,"Brain, NOS",3041,Glioblastoma,1998,yes,black or african american,female,others,0,37,3041,2006,yes,yes
+TCGA-GBM,TCGA-02-0038,9440/3,"Brain, NOS",326,Glioblastoma,2004,no,white,female,others,0,48,326,2004,yes,yes
+TCGA-GBM,TCGA-12-0826,9440/3,"Brain, NOS",845,Glioblastoma,1999,no,white,female,others,0,38,845,2001,no,yes
+TCGA-GBM,TCGA-19-1791,9440/3,"Brain, NOS",4,Glioblastoma,2009,no,white,female,others,1,82,0,0,no,no
+TCGA-GBM,TCGA-74-6575,9440/3,"Brain, NOS",636,Glioblastoma,2009,no,not reported,female,others,1,73,0,0,yes,yes
+TCGA-GBM,TCGA-41-4097,9440/3,"Brain, NOS",6,Glioblastoma,2010,no,white,female,others,0,63,6,2010,no,no
+TCGA-GBM,TCGA-06-0138,9440/3,"Brain, NOS",674,Glioblastoma,2004,no,white,male,others,0,43,737,2006,yes,yes
+TCGA-GBM,TCGA-08-0246,9440/3,"Brain, NOS",119,Glioblastoma,2001,no,white,female,others,0,57,127,2001,yes,yes
+TCGA-GBM,TCGA-06-0649,9440/3,"Brain, NOS",62,Glioblastoma,2007,no,black or african american,female,others,0,73,64,2007,no,no
+TCGA-GBM,TCGA-06-0195,9440/3,"Brain, NOS",214,Glioblastoma,1994,no,white,male,others,0,63,225,1994,yes,yes
+TCGA-GBM,TCGA-02-0060,9440/3,"Brain, NOS",183,Glioblastoma,2006,no,asian,female,others,0,66,183,2006,yes,yes
+TCGA-GBM,TCGA-06-0173,9440/3,"Brain, NOS",7,Glioblastoma,2003,no,white,female,others,0,72,136,2003,no,no
+TCGA-GBM,TCGA-76-6192,9440/3,"Brain, NOS",100,Glioblastoma,2010,no,white,male,others,0,74,100,2010,yes,yes
+TCGA-GBM,TCGA-02-0317,9440/3,"Brain, NOS",372,Glioblastoma,1994,no,white,male,others,0,40,372,1995,yes,yes
+TCGA-GBM,TCGA-28-1752,9440/3,"Brain, NOS",258,Glioblastoma,2009,no,white,female,others,1,42,0,0,yes,yes
+TCGA-GBM,TCGA-02-0034,9440/3,"Brain, NOS",430,Glioblastoma,2003,no,white,male,others,0,60,430,2004,yes,yes
+TCGA-GBM,TCGA-02-0015,9440/3,"Brain, NOS",627,Glioblastoma,2002,no,white,male,others,0,50,627,2003,yes,yes
+TCGA-GBM,TCGA-27-2526,9440/3,"Brain, NOS",87,Glioblastoma,2007,no,white,female,others,0,79,87,2007,yes,no
+TCGA-GBM,TCGA-26-5135,9440/3,"Brain, NOS",0,Glioblastoma,2009,no,white,female,others,0,72,270,2009,no,no
+TCGA-GBM,TCGA-14-1037,9440/3,"Brain, NOS",587,Glioblastoma,2002,no,white,female,others,0,66,587,2003,yes,yes
+TCGA-GBM,TCGA-06-2557,9440/3,"Brain, NOS",33,Glioblastoma,2008,no,black or african american,male,others,0,76,33,2008,no,no
+TCGA-GBM,TCGA-32-1970,9440/3,"Brain, NOS",468,Glioblastoma,2005,no,white,male,others,0,59,468,2006,yes,yes
+TCGA-GBM,TCGA-06-0201,9440/3,"Brain, NOS",12,Glioblastoma,1995,no,white,female,others,0,51,12,1995,no,no
+TCGA-GBM,TCGA-76-6280,9440/3,"Brain, NOS",346,Glioblastoma,2007,no,white,male,others,0,57,346,2007,yes,yes
+TCGA-GBM,TCGA-06-0241,9440/3,"Brain, NOS",455,Glioblastoma,2007,no,white,female,others,0,65,1481,0,yes,yes
+TCGA-GBM,TCGA-19-1392,9440/3,"Brain, NOS",106,Glioblastoma,2008,no,white,female,others,0,72,111,2008,no,no
+TCGA-GBM,TCGA-08-0360,9440/3,"Brain, NOS",352,Glioblastoma,2005,no,white,male,others,0,76,468,2006,yes,yes
+TCGA-GBM,TCGA-06-0409,9440/3,"Brain, NOS",2145,Glioblastoma,1994,no,black or african american,male,others,0,43,2201,2000,yes,yes
+TCGA-GBM,TCGA-16-1063,9440/3,"Brain, NOS",425,Glioblastoma,2006,no,white,male,others,0,72,425,2007,yes,yes
+TCGA-GBM,TCGA-27-1830,9440/3,"Brain, NOS",146,Glioblastoma,2007,no,white,male,others,0,57,154,2007,yes,yes
+TCGA-GBM,TCGA-RR-A6KB,9440/3,Frontal lobe,0,Glioblastoma,2007,no,black or african american,male,others,1,51,0,0,no,no
+TCGA-GBM,TCGA-41-3393,9440/3,"Brain, NOS",135,Glioblastoma,2009,no,white,female,others,0,81,135,2009,yes,yes
+TCGA-GBM,TCGA-08-0380,9440/3,"Brain, NOS",330,Glioblastoma,1997,no,not reported,female,others,0,74,454,1998,yes,yes
+TCGA-GBM,TCGA-27-1838,9440/3,"Brain, NOS",350,Glioblastoma,2008,no,white,female,others,0,59,350,2008,yes,yes
+TCGA-GBM,TCGA-27-2519,9440/3,"Brain, NOS",316,Glioblastoma,2009,no,white,male,others,0,48,550,0,yes,yes
+TCGA-GBM,TCGA-14-0740,9440/3,"Brain, NOS",364,Glioblastoma,2002,no,white,male,others,0,70,364,2002,yes,yes
+TCGA-GBM,TCGA-02-0258,9440/3,"Brain, NOS",503,Glioblastoma,1989,no,white,female,others,0,36,503,1990,no,yes
+TCGA-GBM,TCGA-06-5415,9440/3,"Brain, NOS",260,Glioblastoma,2010,no,white,male,others,1,60,0,0,yes,yes
+TCGA-GBM,TCGA-32-4719,9440/3,"Brain, NOS",330,Glioblastoma,2010,no,white,male,others,0,73,330,2010,yes,yes
+TCGA-GBM,TCGA-41-2571,9440/3,"Brain, NOS",26,Glioblastoma,2009,no,white,male,others,0,89,26,2009,yes,no
+TCGA-GBM,TCGA-14-0871,9440/3,"Brain, NOS",880,Glioblastoma,1998,no,white,female,others,0,74,880,2000,yes,yes
+TCGA-GBM,TCGA-28-5213,9440/3,"Brain, NOS",951,Glioblastoma,2010,no,white,male,others,1,72,0,0,yes,yes
+TCGA-GBM,TCGA-27-1834,9440/3,"Brain, NOS",1008,Glioblastoma,2006,no,white,male,others,0,56,1233,2009,yes,yes
+TCGA-GBM,TCGA-32-1991,9440/3,"Brain, NOS",515,Glioblastoma,2009,no,white,male,others,0,60,515,2010,yes,yes
+TCGA-GBM,TCGA-27-2523,9440/3,"Brain, NOS",489,Glioblastoma,2005,no,white,male,others,0,63,489,2006,yes,yes
+TCGA-GBM,TCGA-06-0176,9440/3,"Brain, NOS",2768,Glioblastoma,2004,no,asian,male,others,1,34,0,0,yes,yes
+TCGA-GBM,TCGA-02-0069,9440/3,"Brain, NOS",873,Glioblastoma,2006,no,asian,female,others,1,31,0,0,yes,yes
+TCGA-GBM,TCGA-06-0190,9440/3,"Brain, NOS",313,Glioblastoma,2006,no,white,male,others,0,62,317,2006,yes,yes
+TCGA-GBM,TCGA-14-1395,9440/3,"Brain, NOS",42,Glioblastoma,2003,no,white,male,others,0,52,42,2003,yes,no
+TCGA-GBM,TCGA-19-0964,9440/3,"Brain, NOS",103,Glioblastoma,2008,no,white,male,others,1,70,0,0,yes,yes
+TCGA-GBM,TCGA-02-0051,9440/3,"Brain, NOS",459,Glioblastoma,2005,no,white,male,others,0,43,459,2006,yes,yes
+TCGA-GBM,TCGA-02-0290,9440/3,"Brain, NOS",485,Glioblastoma,1992,no,white,male,others,0,49,485,1993,yes,yes
+TCGA-GBM,TCGA-02-0430,9440/3,"Brain, NOS",321,Glioblastoma,1997,no,white,female,others,0,67,321,1997,yes,yes
+TCGA-GBM,TCGA-06-5417,9440/3,"Brain, NOS",155,Glioblastoma,2010,no,white,female,others,1,45,0,0,yes,yes
+TCGA-GBM,TCGA-06-0142,9440/3,"Brain, NOS",0,Glioblastoma,2002,no,white,male,others,0,81,67,2002,no,no
+TCGA-GBM,TCGA-76-4931,9440/3,"Brain, NOS",279,Glioblastoma,2005,no,white,female,others,0,70,279,2005,yes,yes
+TCGA-GBM,TCGA-19-A6J5,9440/3,"Brain, NOS",868,Glioblastoma,2012,no,black or african american,male,others,1,40,0,0,yes,yes
+TCGA-GBM,TCGA-76-6656,9440/3,"Brain, NOS",147,Glioblastoma,2010,no,black or african american,male,others,0,66,147,2010,yes,yes
+TCGA-GBM,TCGA-12-0775,9440/3,"Brain, NOS",167,Glioblastoma,2004,no,black or african american,female,others,0,75,232,2004,yes,yes
+TCGA-GBM,TCGA-08-0512,9440/3,"Brain, NOS",358,Glioblastoma,2000,no,white,male,others,0,48,1282,2003,no,yes
+TCGA-GBM,TCGA-12-1093,9440/3,"Brain, NOS",364,Glioblastoma,2006,no,white,female,others,0,66,486,2007,yes,yes
+TCGA-GBM,TCGA-02-0330,9440/3,"Brain, NOS",484,Glioblastoma,1995,no,black or african american,female,others,0,51,484,1996,yes,yes
+TCGA-GBM,TCGA-02-2486,9440/3,"Brain, NOS",493,Glioblastoma,2008,no,white,male,others,0,64,618,0,yes,yes
+TCGA-GBM,TCGA-06-6391,9440/3,"Brain, NOS",0,Glioblastoma,2011,no,white,female,others,0,44,45,2011,no,no
+TCGA-GBM,TCGA-06-5414,9440/3,"Brain, NOS",273,Glioblastoma,2010,no,white,male,others,1,61,0,0,yes,yes
+TCGA-GBM,TCGA-4W-AA9S,9440/3,"Brain, NOS",44,Glioblastoma,2013,no,black or african american,male,others,1,69,0,0,yes,yes
+TCGA-GBM,TCGA-32-1986,9440/3,Temporal lobe,386,Glioblastoma,2008,no,white,male,others,0,68,386,2009,yes,yes
+TCGA-GBM,TCGA-06-0237,9440/3,"Brain, NOS",315,Glioblastoma,2006,no,white,female,others,0,75,415,2007,yes,yes
+TCGA-GBM,TCGA-06-0130,9440/3,"Brain, NOS",320,Glioblastoma,2003,no,white,male,others,0,54,394,2004,yes,yes
+TCGA-GBM,TCGA-14-0789,9440/3,"Brain, NOS",342,Glioblastoma,2005,no,white,male,others,0,54,342,2005,yes,yes
+TCGA-GBM,TCGA-14-0865,9440/3,"Brain, NOS",502,Glioblastoma,2002,no,white,male,others,0,67,502,2003,yes,yes
+TCGA-GBM,TCGA-14-1795,9440/3,"Brain, NOS",60,Glioblastoma,2006,no,white,male,others,0,66,60,2006,yes,no
+TCGA-GBM,TCGA-19-5956,9440/3,"Brain, NOS",198,Glioblastoma,2010,no,white,female,others,0,53,684,0,yes,yes
+TCGA-GBM,TCGA-06-6388,9440/3,"Brain, NOS",120,Glioblastoma,2011,no,white,female,others,0,64,159,2011,yes,yes
+TCGA-GBM,TCGA-02-0057,9440/3,"Brain, NOS",604,Glioblastoma,2004,yes,white,female,others,0,66,604,2005,yes,yes
+TCGA-GBM,TCGA-02-0028,9440/3,"Brain, NOS",2755,Glioblastoma,1998,yes,white,male,others,0,39,2755,2005,yes,yes
+TCGA-GBM,TCGA-14-0790,9440/3,"Brain, NOS",419,Glioblastoma,2006,no,white,female,others,0,64,419,2007,yes,yes
+TCGA-GBM,TCGA-06-0394,9440/3,"Brain, NOS",314,Glioblastoma,1992,no,black or african american,male,others,0,51,329,1992,yes,yes
+TCGA-GBM,TCGA-19-5958,9440/3,"Brain, NOS",164,Glioblastoma,2010,no,white,male,others,0,56,428,0,yes,yes
+TCGA-GBM,TCGA-06-A5U1,9440/3,Occipital lobe,0,Glioblastoma,2011,no,black or african american,female,others,0,78,57,2011,no,no
+TCGA-GBM,TCGA-06-A6S0,9440/3,"Brain, NOS",0,Glioblastoma,2011,no,black or african american,male,others,0,79,95,2011,no,yes
+TCGA-GBM,TCGA-16-1460,9440/3,"Brain, NOS",195,Glioblastoma,2008,no,white,female,others,1,36,0,0,yes,yes
+TCGA-GBM,TCGA-12-1095,9440/3,"Brain, NOS",482,Glioblastoma,2006,no,white,female,others,0,65,482,2007,yes,yes
+TCGA-GBM,TCGA-28-6450,9440/3,"Brain, NOS",165,Glioblastoma,2010,no,white,male,others,0,60,165,2010,yes,yes
+TCGA-GBM,TCGA-02-0014,9440/3,"Brain, NOS",2512,Glioblastoma,1997,no,white,male,others,0,25,2512,2003,yes,yes
+TCGA-GBM,TCGA-16-1055,9440/3,"Brain, NOS",301,Glioblastoma,2004,no,white,male,others,0,48,313,2004,yes,yes
+TCGA-GBM,TCGA-02-0070,9440/3,"Brain, NOS",762,Glioblastoma,2006,no,white,male,others,1,70,0,0,yes,yes
+TCGA-GBM,TCGA-06-6694,9440/3,"Brain, NOS",224,Glioblastoma,1994,no,white,female,others,0,76,224,1994,no,no
+TCGA-GBM,TCGA-14-3476,9440/3,"Brain, NOS",12,Glioblastoma,2009,no,white,male,others,0,74,12,2009,yes,no
+TCGA-GBM,TCGA-76-4925,9440/3,"Brain, NOS",146,Glioblastoma,2005,no,white,male,others,0,76,146,2005,yes,yes
+TCGA-GBM,TCGA-08-0353,9440/3,"Brain, NOS",195,Glioblastoma,2003,no,white,male,others,0,58,256,2003,yes,yes
+TCGA-GBM,TCGA-06-0645,9440/3,"Brain, NOS",98,Glioblastoma,2007,no,white,female,others,0,55,175,2007,no,no
+TCGA-GBM,TCGA-76-4935,9440/3,"Brain, NOS",328,Glioblastoma,2010,no,white,female,others,0,52,1121,0,yes,yes
+TCGA-GBM,TCGA-02-0099,9440/3,"Brain, NOS",106,Glioblastoma,2004,yes,white,male,others,0,46,106,2004,yes,yes
+TCGA-GBM,TCGA-06-5410,9440/3,"Brain, NOS",108,Glioblastoma,2010,no,white,female,others,0,72,108,2010,no,no
+TCGA-GBM,TCGA-06-0165,9440/3,"Brain, NOS",0,Glioblastoma,2001,no,white,male,others,0,52,324,2001,yes,yes
+TCGA-GBM,TCGA-16-0861,9440/3,"Brain, NOS",131,Glioblastoma,2008,no,white,male,others,1,65,0,0,yes,yes
+TCGA-GBM,TCGA-12-1602,9440/3,"Brain, NOS",195,Glioblastoma,2008,no,white,male,others,0,58,206,2008,yes,yes
+TCGA-GBM,TCGA-76-6191,9440/3,"Brain, NOS",508,Glioblastoma,2009,no,white,male,others,0,57,508,2010,yes,yes
+TCGA-GBM,TCGA-74-6573,9440/3,"Brain, NOS",0,Glioblastoma,2009,no,not reported,male,others,0,67,105,2009,yes,yes
+TCGA-GBM,TCGA-06-5413,9440/3,"Brain, NOS",268,Glioblastoma,2010,no,white,male,others,1,67,0,0,yes,yes
+TCGA-GBM,TCGA-06-0125,9440/3,"Brain, NOS",1439,Glioblastoma,2001,no,white,female,others,0,63,1448,2004,yes,yes
+TCGA-GBM,TCGA-28-2502,9440/3,"Brain, NOS",20,Glioblastoma,2009,no,white,male,others,1,65,0,0,no,yes
+TCGA-GBM,TCGA-76-4926,9440/3,"Brain, NOS",138,Glioblastoma,2005,no,white,male,others,0,68,138,2005,yes,yes
+TCGA-GBM,TCGA-02-0086,9440/3,"Brain, NOS",268,Glioblastoma,2005,no,white,female,others,0,45,268,2005,yes,yes
+TCGA-GBM,TCGA-28-5220,9440/3,"Brain, NOS",319,Glioblastoma,2010,no,white,male,others,0,67,388,0,yes,yes
+TCGA-GBM,TCGA-16-1047,9440/3,"Brain, NOS",25,Glioblastoma,2005,no,not reported,female,others,0,66,139,2005,no,no
+TCGA-GBM,TCGA-06-0185,9440/3,"Brain, NOS",2246,Glioblastoma,2005,no,white,male,others,1,54,0,0,yes,yes
+TCGA-GBM,TCGA-06-2564,9440/3,"Brain, NOS",181,Glioblastoma,2009,no,white,male,others,1,50,0,0,no,yes
+TCGA-GBM,TCGA-08-0351,9440/3,"Brain, NOS",1637,Glioblastoma,2001,no,white,male,others,0,40,1987,2006,yes,yes
+TCGA-GBM,TCGA-76-6662,9440/3,"Brain, NOS",282,Glioblastoma,2011,no,white,male,others,0,58,1048,0,yes,yes
+TCGA-GBM,TCGA-76-6663,9440/3,"Brain, NOS",235,Glioblastoma,2011,no,white,female,others,0,44,567,0,yes,yes
+TCGA-GBM,TCGA-06-1804,9440/3,"Brain, NOS",414,Glioblastoma,2009,no,white,female,others,0,81,414,2010,no,no
+TCGA-GBM,TCGA-12-3649,9440/3,"Brain, NOS",351,Glioblastoma,2008,no,white,male,others,0,76,463,2009,yes,no
+TCGA-GBM,TCGA-19-5960,9440/3,"Brain, NOS",165,Glioblastoma,2010,no,white,male,others,0,56,455,0,yes,yes
+TCGA-GBM,TCGA-02-0338,9440/3,"Brain, NOS",322,Glioblastoma,1996,no,white,male,others,0,41,322,1996,no,yes
+TCGA-GBM,TCGA-02-0289,9440/3,"Brain, NOS",432,Glioblastoma,1992,no,white,male,others,0,57,432,1993,yes,yes
+TCGA-GBM,TCGA-12-0829,9440/3,"Brain, NOS",626,Glioblastoma,2006,no,black or african american,male,others,0,75,626,2007,yes,yes
+TCGA-GBM,TCGA-12-0707,9440/3,"Brain, NOS",0,Glioblastoma,1997,no,white,male,others,0,55,864,1999,no,no
+TCGA-GBM,TCGA-06-0197,9440/3,"Brain, NOS",79,Glioblastoma,1994,no,white,female,others,0,65,169,1994,yes,no
+TCGA-GBM,TCGA-02-0058,9440/3,"Brain, NOS",254,Glioblastoma,2005,no,white,female,others,0,28,254,2005,yes,yes
+TCGA-GBM,TCGA-06-1086,9440/3,"Brain, NOS",193,Glioblastoma,2008,no,black or african american,male,others,0,42,208,2008,yes,yes
+TCGA-GBM,TCGA-08-0517,9440/3,"Brain, NOS",1770,Glioblastoma,1996,yes,white,female,others,0,34,1785,2000,yes,yes
+TCGA-GBM,TCGA-76-6664,9440/3,"Brain, NOS",1101,Glioblastoma,2011,no,white,female,others,1,49,0,0,yes,no
+TCGA-GBM,TCGA-06-6699,9440/3,"Brain, NOS",47,Glioblastoma,2011,no,white,female,others,1,58,0,0,yes,yes
+TCGA-GBM,TCGA-06-0214,9440/3,"Brain, NOS",378,Glioblastoma,1998,no,white,male,others,0,66,457,1999,yes,yes
+TCGA-GBM,TCGA-02-0006,9440/3,"Brain, NOS",558,Glioblastoma,2002,no,white,female,others,0,56,558,2003,yes,yes
+TCGA-GBM,TCGA-27-1835,9440/3,"Brain, NOS",648,Glioblastoma,2007,no,white,female,others,0,53,648,2008,yes,yes
+TCGA-GBM,TCGA-74-6577,9440/3,"Brain, NOS",132,Glioblastoma,2010,no,not reported,male,others,1,51,0,0,yes,yes
+TCGA-GBM,TCGA-06-0412,9440/3,"Brain, NOS",245,Glioblastoma,1995,no,white,female,others,0,56,291,1995,yes,yes
+TCGA-GBM,TCGA-06-1087,9440/3,"Brain, NOS",109,Glioblastoma,2008,no,white,male,others,0,75,123,2008,yes,yes
+TCGA-GBM,TCGA-06-0875,9440/3,"Brain, NOS",1322,Glioblastoma,2008,no,white,female,others,1,61,0,0,yes,yes
+TCGA-GBM,TCGA-06-0878,9440/3,"Brain, NOS",218,Glioblastoma,2008,no,white,male,others,1,74,0,0,yes,yes
+TCGA-GBM,TCGA-4W-AA9T,9440/3,"Brain, NOS",778,Glioblastoma,2012,no,black or african american,female,others,1,54,0,0,yes,yes
+TCGA-GBM,TCGA-19-1788,9440/3,"Brain, NOS",112,Glioblastoma,2009,no,white,male,others,0,39,112,2009,no,no
+TCGA-GBM,TCGA-02-0087,9440/3,"Brain, NOS",1757,Glioblastoma,2004,no,white,female,others,1,27,0,0,no,yes
+TCGA-GBM,TCGA-06-0164,9440/3,"Brain, NOS",1730,Glioblastoma,2000,no,asian,male,others,0,47,1731,2004,yes,yes
+TCGA-GBM,TCGA-06-0132,9440/3,"Brain, NOS",570,Glioblastoma,2007,no,white,male,others,0,49,771,2009,yes,yes
+TCGA-GBM,TCGA-26-1440,9440/3,"Brain, NOS",296,Glioblastoma,2008,no,white,male,others,1,48,0,0,yes,yes
+TCGA-GBM,TCGA-14-0781,9440/3,"Brain, NOS",29,Glioblastoma,2003,no,black or african american,male,others,0,49,29,2003,yes,no
+TCGA-GBM,TCGA-76-4927,9440/3,"Brain, NOS",535,Glioblastoma,2005,no,white,male,others,0,58,535,2006,no,no
+TCGA-GBM,TCGA-76-6285,9440/3,"Brain, NOS",254,Glioblastoma,2008,no,white,female,others,0,64,254,2008,yes,no
+TCGA-GBM,TCGA-06-1805,9440/3,"Brain, NOS",1031,Glioblastoma,2009,no,white,female,others,1,28,0,0,yes,yes
+TCGA-GBM,TCGA-06-1806,9440/3,"Brain, NOS",0,Glioblastoma,2009,no,white,male,others,0,47,466,2010,yes,yes
+TCGA-GBM,TCGA-12-1098,9440/3,"Brain, NOS",121,Glioblastoma,2007,no,white,female,others,0,75,121,2007,yes,yes
+TCGA-GBM,TCGA-06-0240,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,male,others,0,57,621,2008,yes,yes
+TCGA-GBM,TCGA-02-0027,9440/3,"Brain, NOS",315,Glioblastoma,2005,no,white,female,others,0,33,370,2006,yes,yes
+TCGA-GBM,TCGA-16-0849,9440/3,"Brain, NOS",793,Glioblastoma,2007,no,white,male,others,1,54,0,0,yes,yes
+TCGA-GBM,TCGA-14-0787,9440/3,"Brain, NOS",68,Glioblastoma,1999,no,asian,male,others,0,69,68,1999,yes,no
+TCGA-GBM,TCGA-08-0354,9440/3,"Brain, NOS",458,Glioblastoma,2003,no,white,female,others,0,52,546,2004,yes,yes
+TCGA-GBM,TCGA-19-4065,9440/3,"Brain, NOS",214,Glioblastoma,2009,no,white,male,hispanic or latino,1,36,0,0,yes,yes
+TCGA-GBM,TCGA-26-5133,9440/3,"Brain, NOS",452,Glioblastoma,2009,no,white,male,others,1,59,0,0,yes,yes
+TCGA-GBM,TCGA-02-2483,9440/3,"Brain, NOS",466,Glioblastoma,2008,no,asian,male,others,1,43,0,0,yes,yes
+TCGA-GBM,TCGA-12-0662,9440/3,"Brain, NOS",1161,Glioblastoma,1998,no,white,male,others,0,51,1161,2001,yes,yes
+TCGA-GBM,TCGA-14-1823,9440/3,"Brain, NOS",543,Glioblastoma,2007,no,white,female,others,0,58,543,2008,yes,yes
+TCGA-GBM,TCGA-19-0957,9440/3,"Brain, NOS",666,Glioblastoma,2007,no,white,female,others,0,48,666,2008,yes,yes
+TCGA-GBM,TCGA-27-2524,9440/3,"Brain, NOS",231,Glioblastoma,2008,no,white,male,others,0,56,231,2008,yes,yes
+TCGA-GBM,TCGA-02-0451,9440/3,"Brain, NOS",493,Glioblastoma,1998,no,white,female,others,0,62,493,1999,no,yes
+TCGA-GBM,TCGA-27-2527,9440/3,"Brain, NOS",438,Glioblastoma,2007,no,white,male,others,0,81,438,2008,yes,yes
+TCGA-GBM,TCGA-26-1439,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,male,others,0,63,422,2008,yes,yes
+TCGA-GBM,TCGA-81-5910,9440/3,"Brain, NOS",0,Glioblastoma,2009,no,white,male,others,0,64,49,2009,no,no
+TCGA-GBM,TCGA-14-1043,9440/3,"Brain, NOS",24,Glioblastoma,2004,no,white,male,others,0,61,24,2004,yes,yes
+TCGA-GBM,TCGA-06-0209,9440/3,"Brain, NOS",119,Glioblastoma,1997,no,white,male,others,0,76,232,1997,no,yes
+TCGA-GBM,TCGA-19-1385,9440/3,"Brain, NOS",327,Glioblastoma,2008,no,white,male,others,0,69,327,2008,yes,yes
+TCGA-GBM,TCGA-12-0653,9440/3,"Brain, NOS",0,Glioblastoma,2002,no,white,male,others,0,65,320,2002,yes,no
+TCGA-GBM,TCGA-06-0216,9440/3,"Brain, NOS",684,Glioblastoma,1999,no,white,female,others,0,61,735,2001,yes,yes
+TCGA-GBM,TCGA-41-6646,9440/3,"Brain, NOS",236,Glioblastoma,2011,no,white,female,others,0,73,379,0,yes,yes
+TCGA-GBM,TCGA-14-1453,9440/3,"Brain, NOS",35,Glioblastoma,2005,no,white,male,others,0,69,35,2005,yes,no
+TCGA-GBM,TCGA-06-0414,9440/3,"Brain, NOS",1065,Glioblastoma,1996,no,white,male,others,0,63,1068,1998,yes,yes
+TCGA-GBM,TCGA-02-0446,9440/3,"Brain, NOS",282,Glioblastoma,1997,no,white,male,others,0,61,282,1997,no,yes
+TCGA-GBM,TCGA-12-0657,9440/3,"Brain, NOS",3,Glioblastoma,1996,no,white,male,others,0,69,3,1996,no,no
+TCGA-GBM,TCGA-06-0160,9440/3,"Brain, NOS",0,Glioblastoma,1999,no,white,female,others,0,56,359,1999,yes,no
+TCGA-GBM,TCGA-76-6193,9440/3,"Brain, NOS",82,Glioblastoma,2010,no,not reported,male,others,0,78,82,2010,yes,yes
+TCGA-GBM,TCGA-19-5953,9440/3,"Brain, NOS",144,Glioblastoma,2010,no,white,male,others,0,58,144,2010,no,no
+TCGA-GBM,TCGA-28-2509,9440/3,"Brain, NOS",145,Glioblastoma,2009,no,white,female,others,1,77,0,0,yes,yes
+TCGA-GBM,TCGA-08-0529,9440/3,"Brain, NOS",527,Glioblastoma,2004,no,not reported,female,hispanic or latino,0,56,560,2005,yes,yes
+TCGA-GBM,TCGA-14-1396,9440/3,"Brain, NOS",34,Glioblastoma,2003,no,white,female,others,0,78,34,2003,yes,no
+TCGA-GBM,TCGA-19-2631,9440/3,"Brain, NOS",213,Glioblastoma,2009,no,white,female,others,0,74,213,2009,no,yes
+TCGA-GBM,TCGA-06-1084,9440/3,"Brain, NOS",226,Glioblastoma,2008,no,black or african american,male,others,0,54,728,0,yes,yes
+TCGA-GBM,TCGA-12-1088,9440/3,"Brain, NOS",3881,Glioblastoma,1989,no,white,female,others,0,53,3881,1999,yes,yes
+TCGA-GBM,TCGA-32-2491,9440/3,"Brain, NOS",372,Glioblastoma,2005,no,white,male,others,0,63,372,2006,yes,yes
+TCGA-GBM,TCGA-19-5955,9440/3,"Brain, NOS",54,Glioblastoma,2010,no,white,male,others,0,83,54,2010,no,no
+TCGA-GBM,TCGA-14-1034,9440/3,"Brain, NOS",485,Glioblastoma,1999,no,not reported,female,others,0,60,485,2000,yes,yes
+TCGA-GBM,TCGA-06-0133,9440/3,"Brain, NOS",428,Glioblastoma,2007,no,white,male,others,0,64,435,2008,yes,yes
+TCGA-GBM,TCGA-06-0140,9440/3,"Brain, NOS",0,Glioblastoma,2003,no,white,male,others,0,86,6,2003,no,no
+TCGA-GBM,TCGA-06-0171,9440/3,"Brain, NOS",396,Glioblastoma,2002,no,white,male,others,0,65,399,2003,yes,yes
+TCGA-GBM,TCGA-06-0402,9440/3,"Brain, NOS",8,Glioblastoma,1993,no,white,male,others,0,71,8,1993,no,no
+TCGA-GBM,TCGA-12-0819,9440/3,"Brain, NOS",754,Glioblastoma,1995,no,black or african american,female,others,0,49,754,1997,yes,yes
+TCGA-GBM,TCGA-19-2621,9440/3,"Brain, NOS",33,Glioblastoma,2009,no,white,male,others,0,83,33,2009,no,no
+TCGA-GBM,TCGA-06-0194,9440/3,"Brain, NOS",142,Glioblastoma,1994,no,white,female,others,0,37,142,1994,yes,yes
+TCGA-GBM,TCGA-12-0619,9440/3,"Brain, NOS",316,Glioblastoma,2003,no,white,male,others,0,60,1062,2005,yes,yes
+TCGA-GBM,TCGA-15-1447,9440/3,"Brain, NOS",1618,Glioblastoma,2004,no,white,female,others,1,36,0,0,yes,yes
+TCGA-GBM,TCGA-06-0750,9440/3,"Brain, NOS",28,Glioblastoma,2008,no,white,male,others,0,43,28,2008,no,no
+TCGA-GBM,TCGA-14-1455,9440/3,"Brain, NOS",28,Glioblastoma,2005,no,white,male,others,0,61,28,2005,yes,no
+TCGA-GBM,TCGA-06-0221,9440/3,"Brain, NOS",548,Glioblastoma,2000,no,white,male,others,0,31,603,2001,yes,yes
+TCGA-GBM,TCGA-02-0024,9440/3,"Brain, NOS",1615,Glioblastoma,2000,yes,white,male,others,0,35,1615,2004,yes,yes
+TCGA-GBM,TCGA-02-0321,9440/3,"Brain, NOS",301,Glioblastoma,1995,no,white,male,others,0,74,301,1995,no,yes
+TCGA-GBM,TCGA-81-5911,9440/3,"Brain, NOS",539,Glioblastoma,2010,no,white,male,others,1,33,0,0,yes,yes
+TCGA-GBM,TCGA-15-1446,9440/3,"Brain, NOS",581,Glioblastoma,2006,no,white,male,others,1,55,0,0,yes,yes
+TCGA-GBM,TCGA-06-6695,9440/3,"Brain, NOS",253,Glioblastoma,2010,no,white,male,others,1,64,0,0,yes,yes
+TCGA-GBM,TCGA-08-0349,9440/3,"Brain, NOS",231,Glioblastoma,2000,no,not reported,male,others,0,46,298,2000,yes,yes
+TCGA-GBM,TCGA-14-1451,9440/3,"Brain, NOS",703,Glioblastoma,2005,no,white,male,others,0,39,703,2006,yes,yes
+TCGA-GBM,TCGA-08-0510,9440/3,"Brain, NOS",107,Glioblastoma,2000,no,white,male,others,0,75,130,2000,yes,yes
+TCGA-GBM,TCGA-08-0352,9440/3,"Brain, NOS",39,Glioblastoma,2003,no,white,male,others,0,79,39,2003,no,no
+TCGA-GBM,TCGA-14-1459,9440/3,"Brain, NOS",378,Glioblastoma,2007,no,white,female,others,0,63,378,2008,yes,yes
+TCGA-GBM,TCGA-06-0148,9440/3,"Brain, NOS",298,Glioblastoma,2002,no,black or african american,male,others,0,76,307,2002,no,yes
+TCGA-GBM,TCGA-02-0071,9440/3,"Brain, NOS",167,Glioblastoma,2005,no,white,male,others,0,53,167,2005,no,yes
+TCGA-GBM,TCGA-16-1062,9440/3,"Brain, NOS",556,Glioblastoma,2006,no,white,female,others,0,57,646,2007,yes,yes
+TCGA-GBM,TCGA-02-0111,9440/3,"Brain, NOS",705,Glioblastoma,2004,no,asian,male,others,0,56,705,2005,yes,yes
+TCGA-GBM,TCGA-76-6286,9440/3,"Brain, NOS",638,Glioblastoma,2009,no,white,male,others,0,60,638,2010,yes,yes
+TCGA-GBM,TCGA-12-0703,9440/3,"Brain, NOS",551,Glioblastoma,1996,no,white,male,others,0,46,620,1997,yes,yes
+TCGA-GBM,TCGA-08-0359,9440/3,"Brain, NOS",29,Glioblastoma,2005,no,white,female,others,0,59,103,2005,no,yes
+TCGA-GBM,TCGA-28-1756,9440/3,"Brain, NOS",86,Glioblastoma,2009,no,white,male,others,1,78,0,0,yes,yes
+TCGA-GBM,TCGA-06-A7TL,9440/3,Overlapping lesion of brain,539,Glioblastoma,2013,no,black or african american,female,others,1,30,0,0,yes,yes
+TCGA-GBM,TCGA-08-0375,9440/3,"Brain, NOS",279,Glioblastoma,1994,no,not reported,female,others,0,51,372,1995,no,yes
+TCGA-GBM,TCGA-08-0373,9440/3,"Brain, NOS",134,Glioblastoma,1994,no,not reported,male,others,0,69,134,1994,no,no
+TCGA-GBM,TCGA-12-1099,9440/3,"Brain, NOS",104,Glioblastoma,2008,no,white,female,others,0,68,126,2008,yes,yes
+TCGA-GBM,TCGA-OX-A56R,9440/3,Temporal lobe,0,Glioblastoma,2012,no,black or african american,male,others,0,68,180,2012,no,no
+TCGA-GBM,TCGA-14-1456,9440/3,"Brain, NOS",1246,Glioblastoma,2006,no,white,male,others,1,23,0,0,yes,yes
+TCGA-GBM,TCGA-32-2634,9440/3,"Brain, NOS",693,Glioblastoma,2009,no,white,male,others,1,82,0,0,yes,yes
+TCGA-GBM,TCGA-02-0333,9440/3,"Brain, NOS",133,Glioblastoma,1996,no,white,female,others,0,77,133,1996,no,yes
+TCGA-GBM,TCGA-08-0390,9440/3,"Brain, NOS",322,Glioblastoma,2005,no,white,male,others,0,69,425,2006,yes,yes
+TCGA-GBM,TCGA-19-1790,9440/3,"Brain, NOS",154,Glioblastoma,2008,no,white,male,others,0,56,154,2008,yes,yes
+TCGA-GBM,TCGA-12-1090,9440/3,"Brain, NOS",190,Glioblastoma,2001,no,white,male,others,0,58,231,2001,yes,yes
+TCGA-GBM,TCGA-16-1060,9440/3,"Brain, NOS",111,Glioblastoma,2005,no,white,female,others,0,70,278,2005,no,yes
+TCGA-GBM,TCGA-06-5408,9440/3,"Brain, NOS",342,Glioblastoma,2009,no,white,female,others,0,54,357,2009,yes,yes
+TCGA-GBM,TCGA-12-1096,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,male,others,0,55,277,2007,yes,no
+TCGA-GBM,TCGA-12-1600,9440/3,"Brain, NOS",414,Glioblastoma,2006,no,white,male,others,0,86,448,2007,yes,yes
+TCGA-GBM,TCGA-02-0075,9440/3,"Brain, NOS",634,Glioblastoma,2005,no,white,male,others,0,63,634,2006,yes,yes
+TCGA-GBM,TCGA-14-2554,9440/3,"Brain, NOS",532,Glioblastoma,2002,no,white,female,others,0,52,532,2003,yes,yes
+TCGA-GBM,TCGA-06-1800,9440/3,"Brain, NOS",815,Glioblastoma,2006,no,white,male,others,0,61,815,2008,yes,yes
+TCGA-GBM,TCGA-12-0615,9440/3,"Brain, NOS",426,Glioblastoma,2005,no,white,female,others,0,78,467,2006,yes,yes
+TCGA-GBM,TCGA-06-2570,9440/3,"Brain, NOS",958,Glioblastoma,2009,no,white,female,others,1,21,0,0,yes,yes
+TCGA-GBM,TCGA-02-0039,9440/3,"Brain, NOS",320,Glioblastoma,2005,no,white,male,others,0,54,320,2005,yes,yes
+TCGA-GBM,TCGA-02-0083,9440/3,"Brain, NOS",691,Glioblastoma,2005,yes,white,female,others,0,59,691,2006,yes,yes
+TCGA-GBM,TCGA-12-0827,9440/3,"Brain, NOS",1179,Glioblastoma,1999,no,white,female,others,0,38,1179,2002,yes,yes
+TCGA-GBM,TCGA-28-1760,9440/3,"Brain, NOS",143,Glioblastoma,2009,no,white,male,others,1,48,0,0,yes,yes
+TCGA-GBM,TCGA-12-3652,9440/3,"Brain, NOS",1050,Glioblastoma,2003,no,white,male,others,0,60,1062,2005,yes,yes
+TCGA-GBM,TCGA-28-1753,9440/3,"Brain, NOS",37,Glioblastoma,2009,no,white,male,hispanic or latino,1,53,0,0,no,yes
+TCGA-GBM,TCGA-12-1599,9440/3,"Brain, NOS",769,Glioblastoma,2006,no,white,female,others,0,47,781,2008,yes,yes
+TCGA-GBM,TCGA-12-0691,9440/3,"Brain, NOS",186,Glioblastoma,1999,no,white,male,others,0,63,369,2000,yes,yes
+TCGA-GBM,TCGA-32-1979,9440/3,"Brain, NOS",593,Glioblastoma,2008,no,white,female,others,0,69,593,2009,no,no
+TCGA-GBM,TCGA-76-6661,9440/3,"Brain, NOS",7,Glioblastoma,2011,no,white,male,others,0,54,727,0,yes,yes
+TCGA-GBM,TCGA-08-0244,9440/3,"Brain, NOS",690,Glioblastoma,2001,no,white,male,others,0,62,690,2002,yes,yes
+TCGA-GBM,TCGA-06-0169,9440/3,"Brain, NOS",95,Glioblastoma,2002,no,white,male,others,0,68,100,2002,yes,yes
+TCGA-GBM,TCGA-08-0514,9440/3,"Brain, NOS",259,Glioblastoma,2001,no,white,female,others,0,69,337,2001,no,yes
+TCGA-GBM,TCGA-06-0177,9440/3,"Brain, NOS",61,Glioblastoma,2004,no,white,male,others,0,64,127,2004,no,no
+TCGA-GBM,TCGA-32-2638,9440/3,"Brain, NOS",644,Glioblastoma,2009,no,white,male,others,0,67,766,0,yes,yes
+TCGA-GBM,TCGA-02-0439,9440/3,"Brain, NOS",20,Glioblastoma,1997,no,white,female,others,0,70,20,1997,no,yes
+TCGA-GBM,TCGA-06-0129,9440/3,"Brain, NOS",989,Glioblastoma,2002,no,asian,male,others,0,30,1024,2004,yes,yes
+TCGA-GBM,TCGA-06-0881,9440/3,"Brain, NOS",178,Glioblastoma,2008,no,white,male,others,0,50,504,0,yes,yes
+TCGA-GBM,TCGA-27-2528,9440/3,"Brain, NOS",480,Glioblastoma,2008,no,white,male,others,0,62,480,2009,yes,yes
+TCGA-GBM,TCGA-28-1745,9440/3,"Brain, NOS",345,Glioblastoma,2008,no,white,male,others,1,76,0,0,yes,yes
+TCGA-GBM,TCGA-02-0432,9440/3,"Brain, NOS",1433,Glioblastoma,1997,no,white,male,others,0,36,1433,2000,yes,yes
+TCGA-GBM,TCGA-14-1402,9440/3,"Brain, NOS",975,Glioblastoma,2005,no,white,female,others,0,58,975,2007,yes,yes
+TCGA-GBM,TCGA-41-2572,9440/3,"Brain, NOS",406,Glioblastoma,2009,no,white,male,others,0,67,406,2010,yes,yes
+TCGA-GBM,TCGA-02-0339,9440/3,"Brain, NOS",377,Glioblastoma,1995,no,white,male,others,0,67,377,1996,no,yes
+TCGA-GBM,TCGA-19-0962,9440/3,"Brain, NOS",13,Glioblastoma,2008,no,white,female,others,0,77,20,2008,no,no
+TCGA-GBM,TCGA-26-5134,9440/3,"Brain, NOS",167,Glioblastoma,2009,no,white,male,others,1,74,0,0,no,yes
+TCGA-GBM,TCGA-14-1454,9440/3,"Brain, NOS",918,Glioblastoma,2005,no,white,female,others,0,54,918,2007,yes,yes
+TCGA-GBM,TCGA-06-0168,9440/3,"Brain, NOS",579,Glioblastoma,2002,no,white,female,others,0,59,598,2003,yes,yes
+TCGA-GBM,TCGA-14-0866,9440/3,"Brain, NOS",801,Glioblastoma,2002,no,white,male,others,0,55,801,2004,yes,yes
+TCGA-GBM,TCGA-12-0692,9440/3,"Brain, NOS",80,Glioblastoma,2000,no,white,female,others,0,75,111,2000,yes,no
+TCGA-GBM,TCGA-06-0154,9440/3,"Brain, NOS",389,Glioblastoma,1998,no,white,male,others,0,54,424,1999,yes,yes
+TCGA-GBM,TCGA-32-2494,9440/3,"Brain, NOS",632,Glioblastoma,2008,no,white,female,others,0,58,632,2009,yes,yes
+TCGA-GBM,TCGA-28-1746,9440/3,"Brain, NOS",6,Glioblastoma,2008,no,white,female,others,1,77,0,0,yes,yes
+TCGA-GBM,TCGA-14-0783,9440/3,"Brain, NOS",189,Glioblastoma,2000,no,white,female,others,0,36,189,2000,yes,yes
+TCGA-GBM,TCGA-02-0074,9440/3,"Brain, NOS",310,Glioblastoma,2005,no,white,female,others,0,68,310,2005,yes,yes
+TCGA-GBM,TCGA-06-0151,9440/3,"Brain, NOS",0,Glioblastoma,1995,no,white,female,others,0,32,1417,1998,yes,yes
+TCGA-GBM,TCGA-28-5204,9440/3,"Brain, NOS",0,Glioblastoma,2009,no,white,male,others,0,72,454,2010,yes,yes
+TCGA-GBM,TCGA-28-1751,9440/3,"Brain, NOS",232,Glioblastoma,2009,no,white,female,others,1,61,0,0,yes,yes
+TCGA-GBM,TCGA-12-0769,9440/3,"Brain, NOS",378,Glioblastoma,2002,no,white,male,others,0,52,458,2003,yes,yes
+TCGA-GBM,TCGA-08-0385,9440/3,"Brain, NOS",31,Glioblastoma,2003,no,not reported,male,others,0,71,82,2003,no,no
+TCGA-GBM,TCGA-06-0686,9440/3,"Brain, NOS",286,Glioblastoma,2008,no,white,male,others,0,53,432,0,yes,yes
+TCGA-GBM,TCGA-26-5132,9440/3,"Brain, NOS",286,Glioblastoma,2009,no,white,male,others,1,74,0,0,yes,yes
+TCGA-GBM,TCGA-28-5215,9440/3,"Brain, NOS",237,Glioblastoma,2010,no,white,female,others,0,62,335,2010,yes,yes
+TCGA-GBM,TCGA-12-0820,9440/3,"Brain, NOS",562,Glioblastoma,1997,no,white,male,others,0,40,562,1998,yes,yes
+TCGA-GBM,TCGA-19-2624,9440/3,"Brain, NOS",5,Glioblastoma,2009,no,white,male,others,0,51,5,2009,no,no
+TCGA-GBM,TCGA-28-5214,9440/3,"Brain, NOS",432,Glioblastoma,2010,no,white,male,others,0,53,713,0,yes,yes
+TCGA-GBM,TCGA-14-0813,9440/3,"Brain, NOS",41,Glioblastoma,2004,no,white,male,others,0,78,41,2004,yes,no
+TCGA-GBM,TCGA-32-2615,9440/3,"Brain, NOS",485,Glioblastoma,2009,no,white,male,others,0,62,485,2010,yes,yes
+TCGA-GBM,TCGA-06-0146,9440/3,"Brain, NOS",611,Glioblastoma,1995,no,white,female,others,0,33,611,1996,yes,yes
+TCGA-GBM,TCGA-16-1045,9440/3,"Brain, NOS",883,Glioblastoma,2006,no,white,female,others,0,49,883,2008,yes,yes
+TCGA-GBM,TCGA-19-1389,9440/3,"Brain, NOS",141,Glioblastoma,2008,no,white,male,others,0,51,141,2008,yes,yes
+TCGA-GBM,TCGA-02-0001,9440/3,"Brain, NOS",279,Glioblastoma,2002,yes,white,female,others,0,44,358,2002,yes,yes
+TCGA-GBM,TCGA-06-2558,9440/3,"Brain, NOS",23,Glioblastoma,2008,no,white,female,others,0,75,380,2009,no,yes
+TCGA-GBM,TCGA-06-0137,9440/3,"Brain, NOS",702,Glioblastoma,2003,no,white,female,others,0,63,812,2005,yes,yes
+TCGA-GBM,TCGA-02-0064,9440/3,"Brain, NOS",600,Glioblastoma,2005,no,white,male,others,0,50,600,2006,yes,yes
+TCGA-GBM,TCGA-06-0145,9440/3,"Brain, NOS",71,Glioblastoma,2002,no,white,female,others,0,53,71,2002,yes,no
+TCGA-GBM,TCGA-76-4934,9440/3,"Brain, NOS",77,Glioblastoma,2009,no,white,female,others,0,66,77,2009,no,no
+TCGA-GBM,TCGA-06-6693,9440/3,"Brain, NOS",15,Glioblastoma,1993,no,white,female,others,0,64,3667,2003,no,no
+TCGA-GBM,TCGA-02-0260,9440/3,"Brain, NOS",515,Glioblastoma,1989,no,white,male,hispanic or latino,0,54,515,1990,no,yes
+TCGA-GBM,TCGA-02-0011,9440/3,"Brain, NOS",630,Glioblastoma,2004,no,white,female,hispanic or latino,0,18,630,2005,yes,yes
+TCGA-GBM,TCGA-27-2518,9440/3,"Brain, NOS",753,Glioblastoma,2007,no,white,male,others,0,52,753,2009,yes,yes
+TCGA-GBM,TCGA-26-5136,9440/3,"Brain, NOS",37,Glioblastoma,2009,no,white,female,others,0,78,577,0,no,no
+TCGA-GBM,TCGA-28-5218,9440/3,"Brain, NOS",128,Glioblastoma,2010,no,white,male,others,0,63,157,2010,yes,yes
+TCGA-GBM,TCGA-19-2620,9440/3,"Brain, NOS",148,Glioblastoma,2009,no,white,male,others,0,70,148,2009,yes,yes
+TCGA-GBM,TCGA-06-0143,9440/3,"Brain, NOS",357,Glioblastoma,2006,no,white,male,others,0,58,357,2006,yes,yes
+TCGA-GBM,TCGA-76-4932,9440/3,"Brain, NOS",1458,Glioblastoma,2006,no,white,female,others,0,50,1458,2009,yes,yes
+TCGA-GBM,TCGA-26-5139,9440/3,"Brain, NOS",48,Glioblastoma,2010,no,white,female,others,1,65,0,0,no,no
+TCGA-GBM,TCGA-02-0021,9440/3,"Brain, NOS",2362,Glioblastoma,1999,yes,white,female,others,0,43,2362,2005,yes,yes
+TCGA-GBM,TCGA-19-A60I,9440/3,"Brain, NOS",541,Glioblastoma,2012,no,black or african american,male,others,1,39,0,0,yes,yes
+TCGA-GBM,TCGA-28-2499,9440/3,"Brain, NOS",95,Glioblastoma,2009,no,white,male,others,1,59,0,0,no,no
+TCGA-GBM,TCGA-14-4157,9440/3,"Brain, NOS",104,Glioblastoma,2010,no,black or african american,male,others,1,40,0,0,yes,yes
+TCGA-GBM,TCGA-32-1976,9440/3,"Brain, NOS",15,Glioblastoma,2008,no,white,male,others,0,65,15,2008,no,no
+TCGA-GBM,TCGA-28-5207,9440/3,"Brain, NOS",275,Glioblastoma,2010,no,white,male,others,0,71,343,2010,yes,yes
+TCGA-GBM,TCGA-19-1789,9440/3,"Brain, NOS",99,Glioblastoma,2009,no,white,female,others,0,69,99,2009,yes,yes
+TCGA-GBM,TCGA-02-0004,9440/3,"Brain, NOS",345,Glioblastoma,2002,no,white,male,others,0,59,345,2002,yes,yes
+TCGA-GBM,TCGA-32-1978,9440/3,"Brain, NOS",482,Glioblastoma,2008,no,white,male,others,0,57,482,2009,no,no
+TCGA-GBM,TCGA-28-1755,9440/3,"Brain, NOS",47,Glioblastoma,2009,no,white,female,others,0,52,47,2009,yes,yes
+TCGA-GBM,TCGA-12-0828,9440/3,"Brain, NOS",272,Glioblastoma,2000,no,white,male,others,0,57,272,2000,yes,yes
+TCGA-GBM,TCGA-02-0104,9440/3,"Brain, NOS",1977,Glioblastoma,2001,no,white,female,others,0,29,1977,2006,yes,yes
+TCGA-GBM,TCGA-02-0047,9440/3,"Brain, NOS",448,Glioblastoma,2005,no,white,male,others,0,78,448,2006,no,yes
+TCGA-GBM,TCGA-08-0347,9440/3,"Brain, NOS",419,Glioblastoma,1993,no,not reported,male,others,0,50,782,1995,yes,yes
+TCGA-GBM,TCGA-08-0350,9440/3,"Brain, NOS",104,Glioblastoma,2001,no,white,male,others,0,32,889,2003,yes,yes
+TCGA-GBM,TCGA-12-1094,9440/3,"Brain, NOS",346,Glioblastoma,2006,no,white,male,others,0,56,372,2007,yes,yes
+TCGA-GBM,TCGA-41-3392,9440/3,"Brain, NOS",30,Glioblastoma,2009,no,white,male,others,0,88,30,2009,no,no
+TCGA-GBM,TCGA-27-1832,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,female,others,0,59,300,2007,yes,yes
+TCGA-GBM,TCGA-02-0043,9440/3,"Brain, NOS",557,Glioblastoma,2004,yes,white,female,hispanic or latino,0,54,557,2005,yes,yes
+TCGA-GBM,TCGA-08-0392,9440/3,"Brain, NOS",9,Glioblastoma,2005,no,white,male,others,0,60,22,2005,no,no
+TCGA-GBM,TCGA-06-0210,9440/3,"Brain, NOS",151,Glioblastoma,1997,no,white,female,others,0,72,225,1997,no,yes
+TCGA-GBM,TCGA-02-0281,9440/3,"Brain, NOS",121,Glioblastoma,1991,no,white,female,others,0,78,121,1991,no,yes
+TCGA-GBM,TCGA-02-0026,9440/3,"Brain, NOS",748,Glioblastoma,2003,no,white,male,others,0,27,748,2005,yes,yes
+TCGA-GBM,TCGA-02-0003,9440/3,"Brain, NOS",144,Glioblastoma,2003,no,white,male,others,0,50,144,2003,yes,yes
+TCGA-GBM,TCGA-12-0773,9440/3,"Brain, NOS",1311,Glioblastoma,2003,no,white,male,others,0,24,1315,2006,yes,yes
+TCGA-GBM,TCGA-06-0747,9440/3,"Brain, NOS",82,Glioblastoma,2007,no,white,male,others,0,53,82,2007,yes,yes
+TCGA-GBM,TCGA-19-1787,9440/3,"Brain, NOS",385,Glioblastoma,2008,no,white,male,others,0,48,385,2009,yes,yes
+TCGA-GBM,TCGA-02-0010,9440/3,"Brain, NOS",1077,Glioblastoma,2002,yes,white,female,others,0,20,1077,2004,yes,yes
+TCGA-GBM,TCGA-06-5859,9440/3,"Brain, NOS",139,Glioblastoma,2011,no,white,male,others,1,63,0,0,yes,yes
+TCGA-GBM,TCGA-02-0116,9440/3,"Brain, NOS",1489,Glioblastoma,2003,yes,white,male,others,0,51,1489,2007,yes,yes
+TCGA-GBM,TCGA-28-5208,9440/3,"Brain, NOS",474,Glioblastoma,2010,no,white,male,others,0,52,544,0,yes,yes
+TCGA-GBM,TCGA-27-2521,9440/3,"Brain, NOS",316,Glioblastoma,2009,no,white,male,others,0,34,510,0,yes,yes
+TCGA-GBM,TCGA-06-0743,9440/3,"Brain, NOS",679,Glioblastoma,2006,no,white,male,others,0,69,803,0,yes,yes
+TCGA-GBM,TCGA-76-6660,9440/3,"Brain, NOS",0,Glioblastoma,2010,no,white,male,others,0,73,114,2010,no,no
+TCGA-GBM,TCGA-06-2562,9440/3,"Brain, NOS",86,Glioblastoma,2009,no,white,male,others,0,81,382,0,yes,yes
+TCGA-GBM,TCGA-06-0208,9440/3,"Brain, NOS",167,Glioblastoma,1997,no,white,female,others,0,52,256,1997,yes,yes
+TCGA-GBM,TCGA-06-A6S1,9440/3,"Brain, NOS",0,Glioblastoma,2012,no,black or african american,female,others,0,53,78,2012,yes,yes
+TCGA-GBM,TCGA-06-0141,9440/3,"Brain, NOS",280,Glioblastoma,2000,no,white,male,others,0,62,313,2000,yes,yes
+TCGA-GBM,TCGA-76-6283,9440/3,"Brain, NOS",0,Glioblastoma,2007,no,white,female,others,0,71,165,2007,no,no
+TCGA-GBM,TCGA-12-1092,9440/3,"Brain, NOS",658,Glioblastoma,2006,no,white,male,others,0,58,661,2007,yes,yes
+TCGA-GBM,TCGA-06-5412,9440/3,"Brain, NOS",138,Glioblastoma,2010,no,white,female,others,0,78,138,2010,yes,yes
+TCGA-GBM,TCGA-32-4210,9440/3,"Brain, NOS",113,Glioblastoma,2010,no,white,male,others,0,73,113,2010,no,no
+TCGA-GBM,TCGA-02-0079,9440/3,"Brain, NOS",829,Glioblastoma,2005,no,white,male,others,0,57,829,2007,no,yes
+TCGA-GBM,TCGA-32-2495,9440/3,"Brain, NOS",457,Glioblastoma,2008,yes,white,female,others,0,59,457,2009,yes,yes
+TCGA-GBM,TCGA-12-1089,9440/3,"Brain, NOS",177,Glioblastoma,2000,no,white,male,others,0,64,177,2000,yes,yes
+TCGA-GBM,TCGA-02-0440,9440/3,"Brain, NOS",345,Glioblastoma,1997,no,white,male,others,0,62,345,1997,yes,yes
+TCGA-GBM,TCGA-06-0749,9440/3,"Brain, NOS",66,Glioblastoma,2008,no,black or african american,male,others,0,50,82,2008,yes,yes
+TCGA-GBM,TCGA-02-0326,9440/3,"Brain, NOS",5,Glioblastoma,1995,no,white,female,others,0,82,223,1995,no,yes
+TCGA-GBM,TCGA-02-2470,9440/3,"Brain, NOS",393,Glioblastoma,2007,yes,white,male,others,0,57,393,2008,yes,yes
+TCGA-GBM,TCGA-06-5418,9440/3,"Brain, NOS",83,Glioblastoma,2010,no,white,female,others,0,75,83,2010,no,no
+TCGA-GBM,TCGA-08-0522,9440/3,"Brain, NOS",555,Glioblastoma,2002,no,white,male,others,0,61,635,2003,yes,yes
+TCGA-GBM,TCGA-06-0646,9440/3,"Brain, NOS",136,Glioblastoma,2007,no,white,male,others,0,60,175,2007,yes,yes
+TCGA-GBM,TCGA-06-0650,9440/3,"Brain, NOS",717,Glioblastoma,2007,no,white,female,others,0,39,717,2008,yes,yes
+TCGA-GBM,TCGA-16-1056,9440/3,"Brain, NOS",406,Glioblastoma,2006,no,white,male,others,0,55,426,2007,yes,yes
+TCGA-GBM,TCGA-12-0821,9440/3,"Brain, NOS",323,Glioblastoma,1998,no,white,male,others,0,62,323,1998,yes,yes
+TCGA-GBM,TCGA-14-1794,9440/3,"Brain, NOS",30,Glioblastoma,2005,no,not reported,male,others,0,59,30,2005,yes,yes
+TCGA-GBM,TCGA-28-2506,9440/3,"Brain, NOS",205,Glioblastoma,2009,no,white,female,others,1,63,0,0,yes,yes
+TCGA-GBM,TCGA-08-0358,9440/3,"Brain, NOS",594,Glioblastoma,2005,no,white,male,others,0,50,678,2006,yes,yes
+TCGA-GBM,TCGA-19-5950,9440/3,"Brain, NOS",343,Glioblastoma,2010,no,white,female,others,0,52,523,0,yes,yes
+TCGA-GBM,TCGA-87-5896,9440/3,"Brain, NOS",800,Glioblastoma,2010,no,white,female,others,1,50,0,0,yes,yes
+TCGA-GBM,TCGA-12-5299,9440/3,"Brain, NOS",98,Glioblastoma,2009,no,white,female,others,0,56,98,2009,yes,yes
+TCGA-GBM,TCGA-16-0848,9440/3,"Brain, NOS",302,Glioblastoma,2007,no,white,male,others,0,57,535,2008,yes,yes
+TCGA-GBM,TCGA-06-0174,9440/3,"Brain, NOS",67,Glioblastoma,2003,no,white,male,others,0,54,98,2003,yes,yes
+TCGA-GBM,TCGA-32-4209,9440/3,"Brain, NOS",604,Glioblastoma,2009,no,white,male,hispanic or latino,0,40,618,0,yes,yes
+TCGA-GBM,TCGA-06-0648,9440/3,"Brain, NOS",294,Glioblastoma,2007,no,white,male,others,0,77,298,2007,yes,yes
+TCGA-GBM,TCGA-14-0812,9440/3,"Brain, NOS",99,Glioblastoma,2003,no,white,male,others,0,65,99,2003,yes,no
+TCGA-GBM,TCGA-28-1750,9440/3,"Brain, NOS",254,Glioblastoma,2009,no,white,female,others,1,40,0,0,yes,yes
+TCGA-GBM,TCGA-06-0744,9440/3,"Brain, NOS",595,Glioblastoma,2007,no,white,male,others,0,66,1426,0,yes,yes
+TCGA-GBM,TCGA-06-0147,9440/3,"Brain, NOS",508,Glioblastoma,1999,no,white,female,others,0,51,541,2000,yes,yes
+TCGA-GBM,TCGA-28-5219,9440/3,"Brain, NOS",690,Glioblastoma,2010,no,white,female,others,1,47,0,0,yes,yes
+TCGA-GBM,TCGA-19-2619,9440/3,"Brain, NOS",294,Glioblastoma,2009,no,black or african american,female,others,1,55,0,0,yes,yes
+TCGA-GBM,TCGA-14-1450,9440/3,"Brain, NOS",1788,Glioblastoma,2005,no,black or african american,female,others,1,57,0,0,yes,yes
+TCGA-GBM,TCGA-06-0179,9440/3,"Brain, NOS",578,Glioblastoma,2004,no,white,male,others,0,64,616,2005,yes,yes
+TCGA-GBM,TCGA-32-1987,9440/3,"Brain, NOS",452,Glioblastoma,2009,no,white,female,others,0,49,452,2010,yes,yes
+TCGA-GBM,TCGA-14-0817,9440/3,"Brain, NOS",164,Glioblastoma,2002,no,white,female,others,0,69,164,2002,yes,no
+TCGA-GBM,TCGA-02-0084,9440/3,"Brain, NOS",7,Glioblastoma,2005,no,white,female,hispanic or latino,0,36,384,2006,no,no
+TCGA-GBM,TCGA-14-2555,9440/3,"Brain, NOS",242,Glioblastoma,2009,no,white,female,others,1,44,0,0,yes,yes
+TCGA-GBM,TCGA-02-0046,9440/3,"Brain, NOS",209,Glioblastoma,2004,no,black or african american,male,others,0,61,209,2004,no,yes
+TCGA-GBM,TCGA-19-0955,9440/3,"Brain, NOS",358,Glioblastoma,2007,no,asian,male,others,1,71,0,0,yes,yes
+TCGA-GBM,TCGA-02-0325,9440/3,"Brain, NOS",323,Glioblastoma,1996,no,white,male,others,0,61,323,1996,yes,yes
+TCGA-GBM,TCGA-06-5856,9440/3,"Brain, NOS",114,Glioblastoma,2010,no,white,male,others,0,58,114,2010,no,no
+TCGA-GBM,TCGA-06-0152,9440/3,"Brain, NOS",359,Glioblastoma,1995,no,white,male,others,0,68,375,1996,yes,yes
+TCGA-GBM,TCGA-19-2625,9440/3,"Brain, NOS",124,Glioblastoma,2009,no,white,female,others,0,76,124,2009,no,no
+TCGA-GBM,TCGA-26-A7UX,9440/3,"Brain, NOS",588,Glioblastoma,2013,no,black or african american,male,others,1,47,0,0,yes,yes
+TCGA-GBM,TCGA-12-1097,9440/3,"Brain, NOS",442,Glioblastoma,2007,no,white,male,others,0,61,442,2008,yes,yes
+TCGA-GBM,TCGA-06-A5U0,9440/3,Occipital lobe,815,Glioblastoma,2012,no,black or african american,female,others,1,21,0,0,yes,yes
+TCGA-GBM,TCGA-14-3477,9440/3,"Brain, NOS",115,Glioblastoma,2009,no,black or african american,female,others,1,38,0,0,yes,yes
+TCGA-GBM,TCGA-12-0618,9440/3,"Brain, NOS",50,Glioblastoma,2003,no,white,male,others,0,49,395,2004,yes,yes
+TCGA-GBM,TCGA-19-5951,9440/3,"Brain, NOS",244,Glioblastoma,2010,no,white,female,others,0,76,244,2010,yes,yes
+TCGA-GBM,TCGA-12-1091,9440/3,"Brain, NOS",929,Glioblastoma,2001,no,white,female,others,0,10,1010,2003,yes,yes
+TCGA-GBM,TCGA-06-2569,9440/3,"Brain, NOS",13,Glioblastoma,2009,no,black or african american,female,others,1,24,0,0,no,no
+TCGA-GBM,TCGA-02-0271,9440/3,"Brain, NOS",440,Glioblastoma,1990,no,not reported,male,others,0,26,440,1991,no,yes
+TCGA-GBM,TCGA-08-0518,9440/3,"Brain, NOS",39,Glioblastoma,2001,no,white,female,others,0,60,588,2002,no,yes
+TCGA-GBM,TCGA-06-0644,9440/3,"Brain, NOS",375,Glioblastoma,2007,no,black or african american,male,others,0,71,384,0,yes,yes
+TCGA-GBM,TCGA-06-0188,9440/3,"Brain, NOS",866,Glioblastoma,2006,no,white,male,others,0,71,1356,0,yes,yes
+TCGA-GBM,TCGA-02-0033,9440/3,"Brain, NOS",86,Glioblastoma,2003,no,white,male,others,0,54,86,2003,no,yes
+TCGA-GBM,TCGA-12-0688,9440/3,"Brain, NOS",734,Glioblastoma,1998,no,white,male,others,0,74,811,2000,yes,yes
+TCGA-GBM,TCGA-02-0025,9440/3,"Brain, NOS",1300,Glioblastoma,2002,no,white,male,others,0,47,1300,2005,yes,yes
+TCGA-GBM,TCGA-26-1799,9440/3,"Brain, NOS",285,Glioblastoma,2008,no,white,male,others,0,68,285,2008,yes,yes
+TCGA-LGG,TCGA-QH-A6CX,9400/3,Cerebrum,-1,"Astrocytoma, NOS",2013,no,white,male,others,0,66,372,0,no,yes
+TCGA-LGG,TCGA-E1-5311,9451/3,"Brain, NOS",0,"Oligodendroglioma, anaplastic",1994,no,white,male,others,0,31,4084,2005,yes,yes
+TCGA-LGG,TCGA-DH-A66F,9450/3,Cerebrum,523,"Oligodendroglioma, NOS",2012,no,white,male,others,1,49,0,0,no,no
+TCGA-LGG,TCGA-HT-7677,9451/3,Cerebrum,494,"Oligodendroglioma, anaplastic",2009,no,white,male,others,1,53,0,0,yes,yes
+TCGA-LGG,TCGA-DB-5277,9401/3,Cerebrum,1419,"Astrocytoma, anaplastic",2007,no,white,male,others,0,34,1547,0,yes,yes
+TCGA-LGG,TCGA-TM-A7C3,9401/3,Cerebrum,1504,"Astrocytoma, anaplastic",2009,no,white,female,others,0,43,1666,0,yes,yes
+TCGA-LGG,TCGA-DU-A5TY,9401/3,Cerebrum,371,"Astrocytoma, anaplastic",2012,no,white,female,others,0,46,1033,0,yes,yes
+TCGA-LGG,TCGA-DU-A7TB,9450/3,Cerebrum,1567,"Oligodendroglioma, NOS",2010,no,asian,male,others,1,56,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A7IZ,9401/3,Cerebrum,608,"Astrocytoma, anaplastic",2013,no,white,female,others,1,48,0,0,no,yes
+TCGA-LGG,TCGA-HT-A616,9400/3,Cerebrum,55,"Astrocytoma, NOS",2013,no,white,female,others,1,36,0,0,no,no
+TCGA-LGG,TCGA-HT-7902,9382/3,Cerebrum,956,Mixed glioma,2009,no,white,female,others,1,30,0,0,no,no
+TCGA-LGG,TCGA-HT-7689,9450/3,Cerebrum,455,"Oligodendroglioma, NOS",2009,no,white,female,others,1,58,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7304,9382/3,Cerebrum,0,Mixed glioma,2008,no,white,male,others,0,43,709,2009,yes,yes
+TCGA-LGG,TCGA-TM-A7CF,9400/3,Cerebrum,1989,"Astrocytoma, NOS",2009,no,white,female,others,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6TV,9382/3,Cerebrum,571,Mixed glioma,2010,no,white,male,others,1,50,0,0,yes,yes
+TCGA-LGG,TCGA-DU-A7T8,9382/3,Cerebrum,3787,Mixed glioma,2003,no,white,male,others,0,35,4229,0,yes,yes
+TCGA-LGG,TCGA-HT-8105,9451/3,Cerebrum,190,"Oligodendroglioma, anaplastic",2011,no,white,male,others,1,54,0,0,no,yes
+TCGA-LGG,TCGA-DB-A64O,9382/3,Cerebrum,573,Mixed glioma,2011,no,white,male,others,0,59,775,0,yes,yes
+TCGA-LGG,TCGA-P5-A5ET,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2012,no,white,male,others,1,27,0,0,no,no
+TCGA-LGG,TCGA-P5-A5F1,9400/3,Cerebrum,179,"Astrocytoma, NOS",2012,no,white,male,others,1,30,0,0,no,no
+TCGA-LGG,TCGA-DH-A66G,9451/3,Cerebrum,523,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,49,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A75M,9400/3,Cerebrum,544,"Astrocytoma, NOS",2013,no,white,male,others,1,47,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A64L,9450/3,Cerebrum,736,"Oligodendroglioma, NOS",2012,no,white,female,others,1,67,0,0,no,no
+TCGA-LGG,TCGA-HT-7473,9382/3,"Brain, NOS",503,Mixed glioma,2010,no,white,male,hispanic or latino,1,28,0,0,no,yes
+TCGA-LGG,TCGA-CS-6669,9450/3,"Brain, NOS",1494,"Oligodendroglioma, NOS",2011,no,white,female,others,1,26,0,0,yes,no
+TCGA-LGG,TCGA-WY-A85A,9400/3,Cerebrum,1320,"Astrocytoma, NOS",2010,no,white,male,others,1,20,0,0,no,no
+TCGA-LGG,TCGA-S9-A6WI,9382/3,Cerebrum,2585,Mixed glioma,2006,no,white,female,others,1,56,0,0,no,yes
+TCGA-LGG,TCGA-DH-5143,9382/3,Cerebrum,1401,Mixed glioma,2009,no,white,male,others,1,30,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6WH,9382/3,Cerebrum,1173,Mixed glioma,2011,no,white,female,others,1,73,0,0,no,yes
+TCGA-LGG,TCGA-FG-A4MW,9382/3,Frontal lobe,160,Mixed glioma,2012,no,white,male,others,0,63,559,0,yes,yes
+TCGA-LGG,TCGA-HT-7611,9382/3,Cerebrum,1752,Mixed glioma,2007,no,white,male,others,1,36,0,0,no,no
+TCGA-LGG,TCGA-WY-A85D,9382/3,Cerebrum,1147,Mixed glioma,2010,no,white,male,others,1,60,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6UB,9450/3,Cerebrum,3761,"Oligodendroglioma, NOS",2005,no,white,male,others,1,52,0,0,no,no
+TCGA-LGG,TCGA-HW-A5KM,9400/3,Cerebrum,630,"Astrocytoma, NOS",2012,no,white,male,others,1,35,0,0,no,no
+TCGA-LGG,TCGA-WY-A859,9400/3,Cerebrum,1213,"Astrocytoma, NOS",2010,no,white,female,others,1,34,0,0,no,yes
+TCGA-LGG,TCGA-DU-A7TI,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",1998,no,white,male,others,0,32,1183,2001,yes,yes
+TCGA-LGG,TCGA-DB-A64W,9382/3,Cerebrum,415,Mixed glioma,2012,no,white,female,others,0,65,438,0,yes,yes
+TCGA-LGG,TCGA-FG-8188,9382/3,Cerebrum,455,Mixed glioma,2012,no,white,male,others,1,41,0,0,no,no
+TCGA-LGG,TCGA-DU-7290,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",1995,no,white,female,others,0,45,315,1995,no,no
+TCGA-LGG,TCGA-HT-8010,9450/3,Cerebrum,50,"Oligodendroglioma, NOS",2011,no,white,female,hispanic or latino,1,64,0,0,no,no
+TCGA-LGG,TCGA-FG-5962,9451/3,Cerebrum,1453,"Oligodendroglioma, anaplastic",2009,no,white,male,others,1,54,0,0,yes,yes
+TCGA-LGG,TCGA-DU-8165,9450/3,Cerebrum,582,"Oligodendroglioma, NOS",2011,no,white,female,others,1,60,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A5R9,9451/3,Cerebrum,2,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,48,0,0,no,no
+TCGA-LGG,TCGA-TQ-A8XE,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2010,no,white,female,hispanic or latino,0,42,954,2012,yes,yes
+TCGA-LGG,TCGA-P5-A72Z,9451/3,Cerebrum,354,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,64,0,0,yes,yes
+TCGA-LGG,TCGA-DU-6408,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",1998,no,white,female,others,0,23,3470,2007,yes,yes
+TCGA-LGG,TCGA-DU-7292,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",1997,no,white,male,others,0,69,242,1997,no,yes
+TCGA-LGG,TCGA-DU-A7TD,9382/3,Cerebrum,0,Mixed glioma,2012,no,white,male,others,0,52,228,2012,yes,yes
+TCGA-LGG,TCGA-DU-6396,9382/3,Cerebrum,0,Mixed glioma,1996,no,white,female,others,0,31,2286,2002,yes,yes
+TCGA-LGG,TCGA-DU-8166,9382/3,Cerebrum,516,Mixed glioma,2012,no,white,female,others,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A780,9401/3,Cerebrum,72,"Astrocytoma, anaplastic",2013,no,white,female,others,1,44,0,0,no,yes
+TCGA-LGG,TCGA-DB-A4XE,9382/3,Temporal lobe,1139,Mixed glioma,2011,no,white,female,others,1,27,0,0,no,yes
+TCGA-LGG,TCGA-RY-A83Y,9450/3,Cerebrum,166,"Oligodendroglioma, NOS",2012,no,white,male,others,1,45,0,0,no,no
+TCGA-LGG,TCGA-DB-A64V,9450/3,Cerebrum,889,"Oligodendroglioma, NOS",2012,no,white,male,others,1,54,0,0,yes,no
+TCGA-LGG,TCGA-S9-A6UA,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2008,no,white,male,others,0,66,178,2008,no,no
+TCGA-LGG,TCGA-HT-7483,9382/3,Cerebrum,5255,Mixed glioma,1998,no,white,male,others,1,14,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7690,9382/3,Cerebrum,3,Mixed glioma,2009,no,white,male,others,1,29,0,0,no,no
+TCGA-LGG,TCGA-S9-A7J2,9451/3,Cerebrum,62,"Oligodendroglioma, anaplastic",2013,no,white,male,others,1,25,0,0,yes,no
+TCGA-LGG,TCGA-HT-A615,9450/3,Cerebrum,515,"Oligodendroglioma, NOS",2012,no,white,female,others,1,38,0,0,no,yes
+TCGA-LGG,TCGA-CS-5393,9401/3,"Brain, NOS",1222,"Astrocytoma, anaplastic",2008,no,white,male,others,1,39,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7019,9382/3,Cerebrum,800,Mixed glioma,2009,no,white,male,others,1,39,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7877,9450/3,Cerebrum,4,"Oligodendroglioma, NOS",2011,no,white,female,others,1,20,0,0,no,no
+TCGA-LGG,TCGA-DB-A4XD,9401/3,Temporal lobe,1210,"Astrocytoma, anaplastic",2010,no,white,male,others,1,32,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7015,9450/3,Cerebrum,2761,"Oligodendroglioma, NOS",2004,no,white,female,others,1,41,0,0,no,no
+TCGA-LGG,TCGA-QH-A6X9,9450/3,Cerebrum,58,"Oligodendroglioma, NOS",2013,no,white,female,others,1,73,0,0,no,no
+TCGA-LGG,TCGA-TM-A84H,9382/3,Cerebrum,926,Mixed glioma,2012,no,white,female,others,1,44,0,0,no,yes
+TCGA-LGG,TCGA-DU-A6S3,9450/3,Cerebrum,656,"Oligodendroglioma, NOS",2013,no,white,male,others,1,60,0,0,yes,no
+TCGA-LGG,TCGA-P5-A77W,9382/3,Cerebrum,584,Mixed glioma,2013,no,white,female,others,1,37,0,0,no,no
+TCGA-LGG,TCGA-P5-A5EX,9451/3,Cerebrum,243,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A61A,9450/3,Cerebrum,194,"Oligodendroglioma, NOS",2013,no,white,female,others,1,20,0,0,yes,yes
+TCGA-LGG,TCGA-FG-7638,9451/3,Cerebrum,686,"Oligodendroglioma, anaplastic",2011,no,white,female,others,1,31,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7018,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2006,no,white,female,others,0,57,933,2008,yes,no
+TCGA-LGG,TCGA-FG-A711,9450/3,Cerebrum,1329,"Oligodendroglioma, NOS",2010,no,white,female,others,0,33,1481,0,yes,no
+TCGA-LGG,TCGA-HT-7467,9450/3,"Brain, NOS",3,"Oligodendroglioma, NOS",2011,no,white,male,others,1,54,0,0,no,no
+TCGA-LGG,TCGA-TM-A84R,9450/3,Cerebrum,566,"Oligodendroglioma, NOS",2012,no,white,male,others,1,46,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RF,9451/3,Cerebrum,650,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,27,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8564,9401/3,Cerebrum,478,"Astrocytoma, anaplastic",2012,no,white,male,hispanic or latino,1,47,0,0,yes,yes
+TCGA-LGG,TCGA-E1-A7YV,9382/3,Cerebrum,0,Mixed glioma,2010,no,white,female,others,0,26,987,2012,yes,yes
+TCGA-LGG,TCGA-S9-A7IS,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2004,no,white,female,others,0,33,241,2004,no,yes
+TCGA-LGG,TCGA-HT-A4DV,9451/3,Cerebrum,792,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,51,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7881,9450/3,Cerebrum,1079,"Oligodendroglioma, NOS",2011,no,black or african american,male,others,1,38,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7476,9400/3,Cerebrum,199,"Astrocytoma, NOS",2011,no,white,male,hispanic or latino,1,26,0,0,yes,yes
+TCGA-LGG,TCGA-VV-A86M,9401/3,Cerebrum,487,"Astrocytoma, anaplastic",2013,no,not reported,female,hispanic or latino,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-TQ-A7RW,9382/3,Cerebrum,0,Mixed glioma,2010,no,white,male,hispanic or latino,0,32,821,2012,yes,yes
+TCGA-LGG,TCGA-DU-7298,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2006,no,black or african american,female,others,0,38,576,2007,yes,yes
+TCGA-LGG,TCGA-DU-8164,9450/3,Cerebrum,651,"Oligodendroglioma, NOS",2011,no,white,male,others,1,51,0,0,yes,no
+TCGA-LGG,TCGA-FG-8185,9401/3,Cerebrum,433,"Astrocytoma, anaplastic",2012,no,white,male,others,1,37,0,0,yes,yes
+TCGA-LGG,TCGA-VW-A7QS,9451/3,Cerebrum,706,"Oligodendroglioma, anaplastic",2011,no,asian,female,others,1,35,0,0,yes,no
+TCGA-LGG,TCGA-HT-7681,9382/3,Cerebrum,1359,Mixed glioma,2009,no,white,female,others,1,29,0,0,no,no
+TCGA-LGG,TCGA-DH-5141,9451/3,Cerebrum,968,"Oligodendroglioma, anaplastic",2005,no,white,male,hispanic or latino,1,32,0,0,yes,yes
+TCGA-LGG,TCGA-FG-5965,9382/3,Cerebrum,979,Mixed glioma,2008,no,white,female,others,0,39,1120,0,yes,yes
+TCGA-LGG,TCGA-DU-8168,9451/3,Cerebrum,431,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,55,0,0,yes,yes
+TCGA-LGG,TCGA-FG-7634,9450/3,Cerebrum,467,"Oligodendroglioma, NOS",2008,no,white,male,others,1,28,0,0,no,no
+TCGA-LGG,TCGA-TM-A84Q,9400/3,Cerebrum,772,"Astrocytoma, NOS",2012,no,white,male,others,1,31,0,0,no,yes
+TCGA-LGG,TCGA-QH-A6CW,9382/3,Cerebrum,414,Mixed glioma,2013,no,white,male,others,1,43,0,0,no,no
+TCGA-LGG,TCGA-P5-A72X,9401/3,Cerebrum,403,"Astrocytoma, anaplastic",2013,no,white,male,others,1,21,0,0,no,yes
+TCGA-LGG,TCGA-FG-A4MY,9382/3,Parietal lobe,721,Mixed glioma,2012,no,white,female,hispanic or latino,1,44,0,0,no,yes
+TCGA-LGG,TCGA-HT-7480,9450/3,"Brain, NOS",2287,"Oligodendroglioma, NOS",2005,no,white,male,others,1,33,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7606,9400/3,"Brain, NOS",526,"Astrocytoma, NOS",2008,no,white,female,others,1,30,0,0,yes,yes
+TCGA-LGG,TCGA-CS-4938,9400/3,"Brain, NOS",3574,"Astrocytoma, NOS",2005,no,white,female,others,1,31,0,0,no,no
+TCGA-LGG,TCGA-S9-A89V,9401/3,Cerebrum,569,"Astrocytoma, anaplastic",2012,no,white,male,others,1,70,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7012,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2001,no,black or african american,female,others,0,74,199,2001,no,yes
+TCGA-LGG,TCGA-DU-A76O,9400/3,Cerebrum,522,"Astrocytoma, NOS",2013,no,white,male,others,1,30,0,0,yes,yes
+TCGA-LGG,TCGA-FG-A70Y,9450/3,Cerebrum,868,"Oligodendroglioma, NOS",2011,no,white,female,others,1,20,0,0,yes,yes
+TCGA-LGG,TCGA-CS-5390,9450/3,"Brain, NOS",0,"Oligodendroglioma, NOS",2005,no,white,female,others,0,47,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8109,9451/3,Cerebrum,169,"Oligodendroglioma, anaplastic",2011,no,white,male,hispanic or latino,1,64,0,0,yes,yes
+TCGA-LGG,TCGA-DU-8163,9382/3,Cerebrum,629,Mixed glioma,2011,no,white,male,others,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A5F2,9400/3,Cerebrum,242,"Astrocytoma, NOS",2012,no,white,female,others,1,36,0,0,yes,no
+TCGA-LGG,TCGA-WY-A858,9401/3,Cerebrum,1337,"Astrocytoma, anaplastic",2010,no,white,female,others,1,32,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7879,9382/3,Cerebrum,112,Mixed glioma,2011,no,white,male,others,1,31,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7309,9451/3,Cerebrum,84,"Oligodendroglioma, anaplastic",2011,no,white,female,others,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-WY-A85B,9400/3,Cerebrum,1393,"Astrocytoma, NOS",2010,no,white,male,others,1,24,0,0,no,no
+TCGA-LGG,TCGA-DH-A66B,9401/3,Cerebrum,1279,"Astrocytoma, anaplastic",2010,no,white,male,others,1,52,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7011,9382/3,Cerebrum,0,Mixed glioma,2000,no,white,male,others,0,25,3200,2008,no,yes
+TCGA-LGG,TCGA-S9-A7IQ,9382/3,Cerebrum,1099,Mixed glioma,2011,no,white,female,others,1,45,0,0,no,no
+TCGA-LGG,TCGA-S9-A89Z,9401/3,Cerebrum,623,"Astrocytoma, anaplastic",2013,no,white,male,others,1,40,0,0,yes,yes
+TCGA-LGG,TCGA-TM-A84S,9451/3,Cerebrum,454,"Oligodendroglioma, anaplastic",2013,no,white,male,others,1,36,0,0,no,no
+TCGA-LGG,TCGA-DU-6542,9382/3,Cerebrum,73,Mixed glioma,2011,no,white,male,others,1,25,0,0,yes,yes
+TCGA-LGG,TCGA-VM-A8CA,9450/3,Cerebrum,411,"Oligodendroglioma, NOS",2011,no,not reported,male,others,1,54,0,0,yes,no
+TCGA-LGG,TCGA-HT-A614,9382/3,Cerebrum,82,Mixed glioma,2013,no,white,male,others,1,47,0,0,no,no
+TCGA-LGG,TCGA-HT-A61B,9401/3,Cerebrum,533,"Astrocytoma, anaplastic",2012,no,white,male,others,1,22,0,0,yes,yes
+TCGA-LGG,TCGA-VM-A8CF,9401/3,Cerebrum,609,"Astrocytoma, anaplastic",2013,no,white,female,others,1,44,0,0,yes,yes
+TCGA-LGG,TCGA-DB-5278,9450/3,Cerebrum,2772,"Oligodendroglioma, NOS",2007,no,white,male,others,1,17,0,0,no,no
+TCGA-LGG,TCGA-QH-A6X8,9451/3,Cerebrum,509,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,56,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7604,9400/3,Cerebrum,3725,"Astrocytoma, NOS",2003,no,black or african american,male,others,1,50,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7009,9450/3,Cerebrum,4206,"Oligodendroglioma, NOS",2000,no,white,female,others,0,32,4695,0,yes,yes
+TCGA-LGG,TCGA-P5-A5EV,9400/3,Cerebrum,7,"Astrocytoma, NOS",2012,no,white,male,others,1,39,0,0,no,no
+TCGA-LGG,TCGA-FG-8191,9451/3,Cerebrum,992,"Oligodendroglioma, anaplastic",2011,no,white,male,others,1,30,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A7J3,9451/3,Cerebrum,629,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,52,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7013,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2001,no,white,male,others,0,59,269,2001,yes,yes
+TCGA-LGG,TCGA-S9-A6WL,9401/3,Cerebrum,946,"Astrocytoma, anaplastic",2012,no,white,male,others,1,52,0,0,no,yes
+TCGA-LGG,TCGA-HT-A5RB,9400/3,Cerebrum,3,"Astrocytoma, NOS",2011,no,white,male,hispanic or latino,1,24,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RO,9382/3,Cerebrum,949,Mixed glioma,2011,no,black or african american,male,hispanic or latino,1,29,0,0,no,no
+TCGA-LGG,TCGA-P5-A733,9400/3,Cerebrum,414,"Astrocytoma, NOS",2013,no,white,female,others,1,52,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A5F4,9451/3,Cerebrum,231,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,35,0,0,yes,yes
+TCGA-LGG,TCGA-FG-A6IZ,9450/3,Cerebrum,457,"Oligodendroglioma, NOS",2013,no,white,male,others,1,60,0,0,no,yes
+TCGA-LGG,TCGA-HW-A5KL,9400/3,Cerebrum,878,"Astrocytoma, NOS",2012,no,white,female,others,1,42,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6WP,9382/3,Cerebrum,567,Mixed glioma,2013,no,white,male,others,1,42,0,0,yes,no
+TCGA-LGG,TCGA-FG-6688,9401/3,Cerebrum,571,"Astrocytoma, anaplastic",2010,no,black or african american,female,others,1,59,0,0,yes,yes
+TCGA-LGG,TCGA-DH-5144,9451/3,Cerebrum,748,"Oligodendroglioma, anaplastic",2009,no,white,female,others,1,56,0,0,no,yes
+TCGA-LGG,TCGA-HT-8114,9382/3,Cerebrum,1040,Mixed glioma,2011,no,white,male,others,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-R8-A73M,9450/3,Cerebrum,1806,"Oligodendroglioma, NOS",2008,no,white,female,others,1,48,0,0,yes,no
+TCGA-LGG,TCGA-S9-A6TY,9450/3,Cerebrum,1076,"Oligodendroglioma, NOS",2011,no,white,male,others,1,50,0,0,yes,no
+TCGA-LGG,TCGA-DB-5274,9382/3,Cerebrum,2289,Mixed glioma,2006,no,white,female,others,1,37,0,0,yes,yes
+TCGA-LGG,TCGA-FG-8186,9382/3,Cerebrum,487,Mixed glioma,2011,no,white,female,hispanic or latino,1,42,0,0,no,yes
+TCGA-LGG,TCGA-DB-A75O,9401/3,Cerebrum,935,"Astrocytoma, anaplastic",2010,no,white,male,others,1,29,0,0,no,no
+TCGA-LGG,TCGA-DU-A5TS,9450/3,Cerebrum,964,"Oligodendroglioma, NOS",2012,no,black or african american,male,others,1,42,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8563,9401/3,Cerebrum,860,"Astrocytoma, anaplastic",2011,no,white,female,others,1,30,0,0,no,yes
+TCGA-LGG,TCGA-HT-7620,9451/3,"Brain, NOS",434,"Oligodendroglioma, anaplastic",2007,no,white,male,others,1,40,0,0,yes,yes
+TCGA-LGG,TCGA-DU-5871,9382/3,"Brain, NOS",576,Mixed glioma,2009,no,white,female,others,1,37,0,0,yes,yes
+TCGA-LGG,TCGA-FG-8187,9382/3,Cerebrum,611,Mixed glioma,2011,no,white,male,others,1,31,0,0,no,no
+TCGA-LGG,TCGA-HW-7493,9400/3,Cerebrum,2107,"Astrocytoma, NOS",2009,no,white,female,others,1,40,0,0,no,yes
+TCGA-LGG,TCGA-FG-7641,9450/3,Cerebrum,627,"Oligodendroglioma, NOS",2011,no,white,male,others,1,31,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RJ,9382/3,Cerebrum,1229,Mixed glioma,2011,no,white,female,hispanic or latino,1,25,0,0,yes,yes
+TCGA-LGG,TCGA-VV-A829,9382/3,Cerebrum,1127,Mixed glioma,2011,no,white,male,others,1,44,0,0,yes,yes
+TCGA-LGG,TCGA-FG-8181,9382/3,Cerebrum,862,Mixed glioma,2012,no,white,male,others,1,23,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A617,9450/3,Cerebrum,491,"Oligodendroglioma, NOS",2010,no,american indian or alaska native,male,others,1,47,0,0,no,no
+TCGA-LGG,TCGA-DB-A64P,9451/3,Cerebrum,916,"Oligodendroglioma, anaplastic",2012,no,white,male,others,1,40,0,0,yes,no
+TCGA-LGG,TCGA-QH-A6CY,9382/3,Cerebrum,408,Mixed glioma,2013,no,white,male,others,1,38,0,0,yes,yes
+TCGA-LGG,TCGA-TQ-A7RQ,9450/3,Cerebrum,795,"Oligodendroglioma, NOS",2012,no,white,female,hispanic or latino,1,38,0,0,yes,no
+TCGA-LGG,TCGA-FG-A4MT,9450/3,Temporal lobe,1164,"Oligodendroglioma, NOS",2010,no,white,female,others,1,27,0,0,no,yes
+TCGA-LGG,TCGA-RY-A83Z,9401/3,"Brain, NOS",301,"Astrocytoma, anaplastic",2012,no,white,female,others,1,54,0,0,yes,yes
+TCGA-LGG,TCGA-DU-5855,9382/3,"Brain, NOS",207,Mixed glioma,2010,no,white,female,others,1,49,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6WQ,9382/3,Cerebrum,428,Mixed glioma,2013,no,white,female,others,1,57,0,0,no,no
+TCGA-LGG,TCGA-HW-8320,9401/3,Cerebrum,1217,"Astrocytoma, anaplastic",2011,no,white,male,others,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-DU-6402,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",1998,no,white,male,others,0,52,214,1998,yes,yes
+TCGA-LGG,TCGA-FG-6691,9400/3,Cerebrum,1257,"Astrocytoma, NOS",2011,no,white,female,others,1,23,0,0,no,no
+TCGA-LGG,TCGA-DB-5281,9382/3,Cerebrum,2381,Mixed glioma,2006,no,white,male,others,1,61,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8013,9382/3,Cerebrum,0,Mixed glioma,2005,no,white,female,others,0,37,1933,2010,yes,yes
+TCGA-LGG,TCGA-DU-6397,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",1997,no,white,male,others,0,45,1401,2000,no,yes
+TCGA-LGG,TCGA-DU-6400,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",1998,no,white,female,others,0,66,37,1998,no,no
+TCGA-LGG,TCGA-HT-7468,9451/3,Cerebrum,203,"Oligodendroglioma, anaplastic",2011,no,white,male,others,1,30,0,0,yes,no
+TCGA-LGG,TCGA-DU-6393,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",1993,no,white,male,others,0,66,1585,1997,yes,yes
+TCGA-LGG,TCGA-HT-7601,9401/3,"Brain, NOS",153,"Astrocytoma, anaplastic",2008,no,white,female,others,1,30,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A74J,9382/3,Cerebrum,320,Mixed glioma,2013,no,white,male,others,1,33,0,0,no,no
+TCGA-LGG,TCGA-P5-A5EU,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2012,no,white,male,others,1,35,0,0,no,no
+TCGA-LGG,TCGA-FG-A6J1,9450/3,Cerebrum,500,"Oligodendroglioma, NOS",2013,no,white,female,others,1,44,0,0,no,yes
+TCGA-LGG,TCGA-P5-A737,9382/3,Cerebrum,372,Mixed glioma,2012,no,white,male,others,1,47,0,0,no,no
+TCGA-LGG,TCGA-DU-5870,9450/3,"Brain, NOS",5546,"Oligodendroglioma, NOS",1995,no,white,female,others,1,34,0,0,no,yes
+TCGA-LGG,TCGA-DU-A5TU,9400/3,Cerebrum,796,"Astrocytoma, NOS",2013,no,white,female,others,1,62,0,0,no,yes
+TCGA-LGG,TCGA-QH-A6X5,9382/3,Cerebrum,497,Mixed glioma,2013,no,white,female,others,1,58,0,0,no,no
+TCGA-LGG,TCGA-DU-5874,9450/3,"Brain, NOS",461,"Oligodendroglioma, NOS",2010,no,white,female,others,1,62,0,0,yes,no
+TCGA-LGG,TCGA-TM-A84B,9401/3,Cerebrum,365,"Astrocytoma, anaplastic",2012,no,white,male,others,0,40,758,0,yes,no
+TCGA-LGG,TCGA-R8-A6MO,9450/3,Cerebrum,993,"Oligodendroglioma, NOS",2009,no,asian,female,others,1,53,0,0,no,no
+TCGA-LGG,TCGA-DU-A7TA,9450/3,Cerebrum,2565,"Oligodendroglioma, NOS",2007,no,white,male,others,1,32,0,0,yes,yes
+TCGA-LGG,TCGA-RY-A843,9401/3,Cerebrum,63,"Astrocytoma, anaplastic",2012,no,white,male,others,1,30,0,0,yes,no
+TCGA-LGG,TCGA-P5-A5EY,9400/3,Cerebrum,72,"Astrocytoma, NOS",2012,no,white,male,others,1,21,0,0,no,no
+TCGA-LGG,TCGA-DH-A66D,9401/3,Cerebrum,846,"Astrocytoma, anaplastic",2012,no,white,female,others,1,43,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8107,9450/3,Cerebrum,14,"Oligodendroglioma, NOS",2011,no,white,male,others,1,62,0,0,no,no
+TCGA-LGG,TCGA-DU-7006,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",1995,no,white,female,others,0,60,349,1995,yes,yes
+TCGA-LGG,TCGA-WY-A85E,9382/3,Cerebrum,633,Mixed glioma,2011,no,white,female,others,1,48,0,0,yes,yes
+TCGA-LGG,TCGA-TM-A7C4,9400/3,Cerebrum,1470,"Astrocytoma, NOS",2010,no,white,female,others,1,39,0,0,no,no
+TCGA-LGG,TCGA-CS-4942,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",2006,no,black or african american,female,others,0,44,1335,2009,no,yes
+TCGA-LGG,TCGA-WY-A85C,9400/3,Cerebrum,1426,"Astrocytoma, NOS",2010,no,white,male,others,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7607,9400/3,Cerebrum,0,"Astrocytoma, NOS",2008,no,white,female,others,0,61,96,2008,no,no
+TCGA-LGG,TCGA-S9-A6WM,9401/3,Cerebrum,604,"Astrocytoma, anaplastic",2012,no,white,female,others,1,59,0,0,yes,yes
+TCGA-LGG,TCGA-E1-A7YE,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2001,no,white,female,others,0,32,886,2003,yes,yes
+TCGA-LGG,TCGA-CS-5395,9382/3,"Brain, NOS",0,Mixed glioma,2007,no,black or african american,male,others,0,43,639,2008,yes,yes
+TCGA-LGG,TCGA-TM-A7CA,9400/3,Cerebrum,1058,"Astrocytoma, NOS",2011,no,white,male,others,1,44,0,0,no,no
+TCGA-LGG,TCGA-TM-A84T,9382/3,Cerebrum,724,Mixed glioma,2012,no,white,male,others,1,19,0,0,no,no
+TCGA-LGG,TCGA-QH-A6CV,9382/3,Cerebrum,442,Mixed glioma,2013,no,asian,male,others,1,51,0,0,no,yes
+TCGA-LGG,TCGA-FG-A713,9382/3,Cerebrum,622,Mixed glioma,2013,no,white,female,others,1,74,0,0,no,yes
+TCGA-LGG,TCGA-DH-5140,9382/3,Cerebrum,0,Mixed glioma,2007,no,white,female,others,0,38,607,2008,yes,yes
+TCGA-LGG,TCGA-DB-A4XB,9401/3,Occipital lobe,919,"Astrocytoma, anaplastic",2011,no,white,male,others,1,38,0,0,yes,yes
+TCGA-LGG,TCGA-CS-4941,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",2005,no,white,male,others,0,67,234,2005,yes,yes
+TCGA-LGG,TCGA-E1-A7YU,9382/3,Cerebrum,0,Mixed glioma,1996,no,white,male,others,0,42,23,1996,yes,no
+TCGA-LGG,TCGA-EZ-7264,9450/3,Cerebrum,1201,"Oligodendroglioma, NOS",2011,no,white,female,others,1,47,0,0,no,no
+TCGA-LGG,TCGA-DU-5853,9382/3,"Brain, NOS",407,Mixed glioma,2010,no,white,male,others,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-DU-6392,9401/3,Cerebrum,6423,"Astrocytoma, anaplastic",1993,no,white,female,others,1,35,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A5F6,9450/3,Cerebrum,39,"Oligodendroglioma, NOS",2012,no,white,male,others,1,26,0,0,no,no
+TCGA-LGG,TCGA-HT-A74H,9401/3,Cerebrum,74,"Astrocytoma, anaplastic",2013,no,white,male,others,1,62,0,0,yes,yes
+TCGA-LGG,TCGA-TQ-A7RK,9450/3,Cerebrum,1341,"Oligodendroglioma, NOS",2010,no,white,male,hispanic or latino,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7860,9401/3,Cerebrum,15,"Astrocytoma, anaplastic",2009,no,white,female,others,1,60,0,0,no,no
+TCGA-LGG,TCGA-DU-A76K,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",1999,no,white,male,others,0,87,347,1999,yes,yes
+TCGA-LGG,TCGA-HT-7470,9451/3,"Brain, NOS",268,"Oligodendroglioma, anaplastic",2011,no,white,male,others,0,37,1220,0,yes,yes
+TCGA-LGG,TCGA-RY-A847,9450/3,Cerebrum,933,"Oligodendroglioma, NOS",2012,no,white,male,others,1,45,0,0,no,no
+TCGA-LGG,TCGA-P5-A731,9382/3,Cerebrum,274,Mixed glioma,2013,no,white,female,others,1,59,0,0,no,yes
+TCGA-LGG,TCGA-VM-A8CB,9451/3,Cerebrum,3,"Oligodendroglioma, anaplastic",2011,no,not reported,male,others,1,33,0,0,no,no
+TCGA-LGG,TCGA-DB-A4XC,9382/3,Temporal lobe,1421,Mixed glioma,2010,no,white,male,others,1,26,0,0,no,yes
+TCGA-LGG,TCGA-S9-A7J1,9450/3,Cerebrum,249,"Oligodendroglioma, NOS",2013,no,white,male,others,1,43,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RM,9382/3,Cerebrum,1116,Mixed glioma,2011,no,white,female,hispanic or latino,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-QH-A870,9382/3,Cerebrum,395,Mixed glioma,2013,no,white,female,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-RY-A845,9382/3,Cerebrum,596,Mixed glioma,2013,no,white,female,others,1,40,0,0,no,no
+TCGA-LGG,TCGA-HW-8321,9400/3,Cerebrum,1294,"Astrocytoma, NOS",2011,no,white,male,others,1,31,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6U9,9401/3,Cerebrum,2918,"Astrocytoma, anaplastic",2006,no,white,male,others,1,36,0,0,no,yes
+TCGA-LGG,TCGA-HT-7477,9401/3,Cerebrum,738,"Astrocytoma, anaplastic",2011,no,white,male,others,1,62,0,0,yes,yes
+TCGA-LGG,TCGA-DU-A76L,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2000,no,white,male,others,0,54,814,2002,yes,yes
+TCGA-LGG,TCGA-E1-A7Z3,9400/3,Cerebrum,0,"Astrocytoma, NOS",1992,no,black or african american,female,others,0,31,2235,1998,yes,yes
+TCGA-LGG,TCGA-DH-A7UV,9401/3,Cerebrum,566,"Astrocytoma, anaplastic",2013,no,white,male,others,1,49,0,0,yes,yes
+TCGA-LGG,TCGA-TM-A84F,9401/3,Cerebrum,1796,"Astrocytoma, anaplastic",2009,no,white,male,others,1,48,0,0,no,yes
+TCGA-LGG,TCGA-DU-A6S6,9382/3,Cerebrum,2893,Mixed glioma,2007,no,white,female,others,1,35,0,0,yes,no
+TCGA-LGG,TCGA-P5-A781,9401/3,Cerebrum,134,"Astrocytoma, anaplastic",2013,no,white,female,others,1,34,0,0,no,yes
+TCGA-LGG,TCGA-HT-7686,9401/3,Cerebrum,1300,"Astrocytoma, anaplastic",2008,no,white,female,others,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6WD,9451/3,Cerebrum,2289,"Oligodendroglioma, anaplastic",2008,no,white,male,others,1,58,0,0,yes,no
+TCGA-LGG,TCGA-HT-7687,9451/3,Cerebrum,3,"Oligodendroglioma, anaplastic",2010,no,white,male,others,1,74,0,0,no,no
+TCGA-LGG,TCGA-DU-7294,9450/3,Cerebrum,2869,"Oligodendroglioma, NOS",2003,no,white,female,others,1,53,0,0,no,no
+TCGA-LGG,TCGA-CS-6188,9401/3,"Brain, NOS",725,"Astrocytoma, anaplastic",2009,no,white,male,others,0,48,814,0,yes,yes
+TCGA-LGG,TCGA-E1-5318,9450/3,"Brain, NOS",2379,"Oligodendroglioma, NOS",1997,no,white,female,others,0,42,2379,2003,yes,yes
+TCGA-LGG,TCGA-HT-7855,9401/3,Cerebrum,585,"Astrocytoma, anaplastic",2008,no,white,male,others,1,39,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A4XF,9401/3,Frontal lobe,1021,"Astrocytoma, anaplastic",2011,no,white,female,others,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7875,9450/3,Cerebrum,10,"Oligodendroglioma, NOS",2008,no,white,male,others,1,56,0,0,no,yes
+TCGA-LGG,TCGA-HT-7475,9382/3,"Brain, NOS",530,Mixed glioma,2010,no,white,male,others,1,67,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6TS,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2006,no,white,female,others,0,48,1891,2011,yes,yes
+TCGA-LGG,TCGA-S9-A6U2,9450/3,Cerebrum,908,"Oligodendroglioma, NOS",2012,no,white,female,others,1,48,0,0,no,yes
+TCGA-LGG,TCGA-WH-A86K,9400/3,Cerebrum,405,"Astrocytoma, NOS",2013,no,white,male,others,1,65,0,0,yes,yes
+TCGA-LGG,TCGA-HW-7487,9450/3,Cerebrum,1382,"Oligodendroglioma, NOS",2010,no,white,male,others,1,39,0,0,yes,no
+TCGA-LGG,TCGA-HT-7880,9382/3,Cerebrum,162,Mixed glioma,2011,no,white,male,others,1,30,0,0,no,no
+TCGA-LGG,TCGA-E1-A7YM,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2010,no,white,male,others,0,63,648,2011,yes,yes
+TCGA-LGG,TCGA-DU-7008,9450/3,Cerebrum,4752,"Oligodendroglioma, NOS",1998,no,white,female,others,1,41,0,0,yes,no
+TCGA-LGG,TCGA-S9-A7QX,9401/3,Cerebrum,564,"Astrocytoma, anaplastic",2013,no,white,female,others,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-QH-A6XA,9382/3,Cerebrum,502,Mixed glioma,2013,no,white,female,others,1,23,0,0,no,no
+TCGA-LGG,TCGA-DU-6394,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",1994,no,white,male,others,0,53,682,1995,yes,yes
+TCGA-LGG,TCGA-CS-6290,9401/3,"Brain, NOS",546,"Astrocytoma, anaplastic",2009,no,not reported,male,others,0,31,1137,0,yes,yes
+TCGA-LGG,TCGA-S9-A6TX,9451/3,Cerebrum,1245,"Oligodendroglioma, anaplastic",2011,no,white,male,others,1,46,0,0,yes,yes
+TCGA-LGG,TCGA-KT-A74X,9382/3,Cerebrum,438,Mixed glioma,2013,no,white,male,others,1,26,0,0,yes,yes
+TCGA-LGG,TCGA-TQ-A7RS,9450/3,Cerebrum,-1,"Oligodendroglioma, NOS",2012,no,white,female,hispanic or latino,1,25,0,0,no,no
+TCGA-LGG,TCGA-P5-A730,9382/3,Cerebrum,333,Mixed glioma,2013,no,white,male,others,1,22,0,0,no,no
+TCGA-LGG,TCGA-HT-7482,9382/3,"Brain, NOS",3253,Mixed glioma,2005,no,white,female,others,1,18,0,0,yes,yes
+TCGA-LGG,TCGA-E1-5303,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",1998,no,white,male,others,0,38,2052,2003,no,yes
+TCGA-LGG,TCGA-QH-A65X,9382/3,Cerebrum,482,Mixed glioma,2013,no,white,female,others,1,28,0,0,yes,yes
+TCGA-LGG,TCGA-E1-A7YD,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",1998,no,white,male,others,0,57,435,1999,yes,yes
+TCGA-LGG,TCGA-HT-7608,9382/3,Cerebrum,671,Mixed glioma,2007,no,black or african american,male,others,1,61,0,0,no,no
+TCGA-LGG,TCGA-DU-6410,9451/3,Cerebrum,242,"Oligodendroglioma, anaplastic",2010,no,white,male,others,1,56,0,0,yes,no
+TCGA-LGG,TCGA-DB-5280,9382/3,Cerebrum,1112,Mixed glioma,2007,no,white,male,others,1,43,0,0,no,no
+TCGA-LGG,TCGA-HT-7472,9450/3,Cerebrum,1,"Oligodendroglioma, NOS",2010,no,white,male,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-HT-7471,9451/3,"Brain, NOS",4,"Oligodendroglioma, anaplastic",2010,no,white,female,others,1,37,0,0,no,no
+TCGA-LGG,TCGA-HT-7610,9382/3,Cerebrum,1706,Mixed glioma,2007,no,white,female,others,1,25,0,0,no,no
+TCGA-LGG,TCGA-VM-A8CH,9400/3,Cerebrum,714,"Astrocytoma, NOS",2013,no,white,female,others,1,24,0,0,no,no
+TCGA-LGG,TCGA-DU-5872,9382/3,"Brain, NOS",532,Mixed glioma,2009,no,black or african american,female,others,1,43,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7693,9450/3,Cerebrum,533,"Oligodendroglioma, NOS",2008,no,white,female,others,1,51,0,0,yes,yes
+TCGA-LGG,TCGA-HW-7495,9450/3,Cerebrum,1078,"Oligodendroglioma, NOS",2011,no,white,female,others,1,45,0,0,no,no
+TCGA-LGG,TCGA-HT-7694,9451/3,Cerebrum,210,"Oligodendroglioma, anaplastic",2008,no,white,male,others,1,60,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A72U,9451/3,Cerebrum,7,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,71,0,0,no,no
+TCGA-LGG,TCGA-HT-7854,9400/3,Cerebrum,1201,"Astrocytoma, NOS",2010,no,white,male,others,1,62,0,0,no,yes
+TCGA-LGG,TCGA-DU-A5TR,9382/3,Cerebrum,908,Mixed glioma,2012,no,white,male,others,1,51,0,0,yes,yes
+TCGA-LGG,TCGA-DU-A5TW,9401/3,Cerebrum,760,"Astrocytoma, anaplastic",2012,no,black or african american,female,others,1,33,0,0,no,no
+TCGA-LGG,TCGA-HT-7478,9400/3,Cerebrum,194,"Astrocytoma, NOS",2011,no,white,male,others,1,36,0,0,no,yes
+TCGA-LGG,TCGA-HT-7857,9401/3,Cerebrum,7,"Astrocytoma, anaplastic",2006,no,white,female,others,1,24,0,0,no,no
+TCGA-LGG,TCGA-DU-6399,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",1998,no,white,male,others,0,54,2000,2003,no,yes
+TCGA-LGG,TCGA-VW-A8FI,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2013,no,white,male,others,0,66,245,2013,yes,yes
+TCGA-LGG,TCGA-HT-7695,9450/3,Cerebrum,442,"Oligodendroglioma, NOS",2009,no,white,female,others,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-QH-A65R,9451/3,"Brain, NOS",461,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,38,0,0,yes,yes
+TCGA-LGG,TCGA-VM-A8C9,9400/3,Cerebrum,1314,"Astrocytoma, NOS",2011,no,not reported,female,others,1,37,0,0,no,no
+TCGA-LGG,TCGA-R8-A6ML,9451/3,Cerebrum,2860,"Oligodendroglioma, anaplastic",2005,yes,white,male,hispanic or latino,1,52,0,0,yes,yes
+TCGA-LGG,TCGA-FG-8189,9450/3,Cerebrum,685,"Oligodendroglioma, NOS",2012,no,white,female,others,1,33,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A74L,9382/3,Cerebrum,336,Mixed glioma,2013,no,white,female,others,1,22,0,0,no,no
+TCGA-LGG,TCGA-HW-7486,9450/3,Cerebrum,1721,"Oligodendroglioma, NOS",2010,no,white,male,others,1,37,0,0,yes,no
+TCGA-LGG,TCGA-DU-5851,9382/3,"Brain, NOS",531,Mixed glioma,2010,no,white,female,others,1,40,0,0,yes,yes
+TCGA-LGG,TCGA-E1-A7YI,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2008,no,white,female,others,0,33,111,2008,no,no
+TCGA-LGG,TCGA-S9-A7R4,9401/3,Cerebrum,914,"Astrocytoma, anaplastic",2012,no,white,male,others,1,46,0,0,yes,yes
+TCGA-LGG,TCGA-DU-8167,9382/3,Cerebrum,471,Mixed glioma,2012,no,white,female,others,1,69,0,0,no,yes
+TCGA-LGG,TCGA-HT-8011,9401/3,Cerebrum,494,"Astrocytoma, anaplastic",2009,no,white,male,others,1,55,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A72W,9401/3,Cerebrum,317,"Astrocytoma, anaplastic",2013,no,white,male,others,1,35,0,0,no,yes
+TCGA-LGG,TCGA-HT-A5RA,9401/3,Cerebrum,832,"Astrocytoma, anaplastic",2012,no,white,female,others,1,65,0,0,yes,yes
+TCGA-LGG,TCGA-TQ-A7RV,9400/3,Cerebrum,1868,"Astrocytoma, NOS",2009,no,white,male,hispanic or latino,1,27,0,0,no,yes
+TCGA-LGG,TCGA-DU-A7TC,9400/3,Cerebrum,1137,"Astrocytoma, NOS",2011,no,white,male,others,1,32,0,0,no,no
+TCGA-LGG,TCGA-DU-7302,9451/3,Cerebrum,1834,"Oligodendroglioma, anaplastic",2006,no,white,female,others,1,48,0,0,yes,no
+TCGA-LGG,TCGA-DU-5849,9450/3,"Brain, NOS",443,"Oligodendroglioma, NOS",2010,no,white,male,others,1,48,0,0,yes,no
+TCGA-LGG,TCGA-FG-A710,9450/3,Cerebrum,1115,"Oligodendroglioma, NOS",2011,no,white,female,others,1,50,0,0,yes,no
+TCGA-LGG,TCGA-DH-5142,9401/3,Cerebrum,1943,"Astrocytoma, anaplastic",2008,no,white,male,others,1,29,0,0,yes,yes
+TCGA-LGG,TCGA-FN-7833,9382/3,Cerebrum,837,Mixed glioma,2011,no,white,male,others,1,25,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A4XH,9382/3,Frontal lobe,962,Mixed glioma,2011,no,white,female,others,1,53,0,0,no,no
+TCGA-LGG,TCGA-HT-8104,9401/3,Cerebrum,372,"Astrocytoma, anaplastic",2010,no,white,female,others,1,51,0,0,no,no
+TCGA-LGG,TCGA-DB-A4X9,9382/3,Temporal lobe,1412,Mixed glioma,2010,no,white,female,others,1,33,0,0,no,no
+TCGA-LGG,TCGA-E1-A7YS,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2007,no,black or african american,male,others,0,71,466,2008,yes,yes
+TCGA-LGG,TCGA-E1-5322,9382/3,"Brain, NOS",0,Mixed glioma,1999,no,white,female,others,0,38,3978,2009,no,no
+TCGA-LGG,TCGA-E1-A7YW,9382/3,Cerebrum,0,Mixed glioma,2002,no,white,male,others,0,28,1120,2005,yes,yes
+TCGA-LGG,TCGA-FG-6692,9451/3,Cerebrum,413,"Oligodendroglioma, anaplastic",2011,no,white,male,others,0,63,561,0,yes,yes
+TCGA-LGG,TCGA-DB-A75K,9382/3,Cerebrum,368,Mixed glioma,2013,no,white,female,others,1,55,0,0,yes,yes
+TCGA-LGG,TCGA-TQ-A7RR,9382/3,Cerebrum,787,Mixed glioma,2012,no,white,male,hispanic or latino,1,38,0,0,yes,yes
+TCGA-LGG,TCGA-CS-6670,9451/3,"Brain, NOS",1426,"Oligodendroglioma, anaplastic",2011,yes,white,male,others,1,43,0,0,yes,no
+TCGA-LGG,TCGA-HW-8322,9450/3,Cerebrum,758,"Oligodendroglioma, NOS",2012,no,white,male,others,1,39,0,0,yes,no
+TCGA-LGG,TCGA-HT-A5R5,9450/3,Cerebrum,4,"Oligodendroglioma, NOS",2012,no,white,female,hispanic or latino,1,33,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RG,9382/3,Cerebrum,599,Mixed glioma,2012,no,white,male,hispanic or latino,1,36,0,0,yes,no
+TCGA-LGG,TCGA-TM-A84M,9451/3,Cerebrum,754,"Oligodendroglioma, anaplastic",2012,no,white,male,others,1,40,0,0,yes,yes
+TCGA-LGG,TCGA-QH-A6XC,9401/3,Cerebrum,508,"Astrocytoma, anaplastic",2013,no,white,male,others,1,48,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6U5,9400/3,Cerebrum,992,"Astrocytoma, NOS",2011,no,white,male,others,1,33,0,0,no,no
+TCGA-LGG,TCGA-HT-7680,9400/3,"Brain, NOS",23,"Astrocytoma, NOS",2010,no,white,female,hispanic or latino,1,32,0,0,no,no
+TCGA-LGG,TCGA-DU-A7TG,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2008,no,white,male,others,0,40,1351,2011,yes,no
+TCGA-LGG,TCGA-DU-6395,9382/3,Cerebrum,0,Mixed glioma,1994,no,white,male,others,0,31,1491,1998,no,yes
+TCGA-LGG,TCGA-TM-A84G,9451/3,Cerebrum,1236,"Oligodendroglioma, anaplastic",2010,no,white,female,others,1,54,0,0,no,yes
+TCGA-LGG,TCGA-FG-5964,9450/3,Cerebrum,1588,"Oligodendroglioma, NOS",2010,no,white,male,others,1,62,0,0,no,yes
+TCGA-LGG,TCGA-CS-4944,9400/3,"Brain, NOS",1828,"Astrocytoma, NOS",2010,no,white,male,others,1,50,0,0,no,yes
+TCGA-LGG,TCGA-R8-A6MK,9450/3,Cerebrum,2702,"Oligodendroglioma, NOS",2005,no,white,male,others,1,40,0,0,yes,no
+TCGA-LGG,TCGA-DU-A5TP,9401/3,Cerebrum,1012,"Astrocytoma, anaplastic",2012,no,white,male,others,1,33,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A64S,9382/3,Cerebrum,835,Mixed glioma,2012,no,white,male,others,1,20,0,0,no,no
+TCGA-LGG,TCGA-VM-A8CE,9450/3,Cerebrum,1191,"Oligodendroglioma, NOS",2011,no,white,male,others,1,25,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A64R,9450/3,Cerebrum,955,"Oligodendroglioma, NOS",2012,no,not reported,female,hispanic or latino,1,24,0,0,no,no
+TCGA-LGG,TCGA-S9-A6TU,9400/3,Cerebrum,2650,"Astrocytoma, NOS",2007,no,white,male,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-FG-5963,9401/3,Cerebrum,547,"Astrocytoma, anaplastic",2009,no,white,male,others,0,23,775,0,yes,yes
+TCGA-LGG,TCGA-E1-5304,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",1999,no,white,male,others,0,42,1251,2002,yes,yes
+TCGA-LGG,TCGA-HW-7489,9382/3,Cerebrum,253,Mixed glioma,2011,no,white,male,others,0,38,1262,0,no,no
+TCGA-LGG,TCGA-DU-A5TT,9451/3,Cerebrum,743,"Oligodendroglioma, anaplastic",2013,no,white,male,others,1,70,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7692,9382/3,Cerebrum,90,Mixed glioma,2009,no,white,male,others,1,43,0,0,yes,yes
+TCGA-LGG,TCGA-FG-8182,9450/3,Cerebrum,416,"Oligodendroglioma, NOS",2012,no,white,male,others,1,35,0,0,no,no
+TCGA-LGG,TCGA-HT-7691,9400/3,Cerebrum,3,"Astrocytoma, NOS",2008,no,white,female,others,1,31,0,0,no,no
+TCGA-LGG,TCGA-S9-A7J0,9451/3,Cerebrum,609,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,30,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7605,9450/3,"Brain, NOS",139,"Oligodendroglioma, NOS",2008,no,white,male,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-HT-A4DS,9401/3,Cerebrum,7,"Astrocytoma, anaplastic",2012,no,white,female,others,1,55,0,0,no,no
+TCGA-LGG,TCGA-P5-A5EW,9400/3,Cerebrum,204,"Astrocytoma, NOS",2012,no,white,female,others,1,20,0,0,no,no
+TCGA-LGG,TCGA-QH-A6CS,9401/3,Cerebrum,588,"Astrocytoma, anaplastic",2013,no,white,male,others,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6WE,9450/3,Cerebrum,4113,"Oligodendroglioma, NOS",2004,no,white,male,others,1,34,0,0,yes,no
+TCGA-LGG,TCGA-TQ-A7RH,9382/3,Cerebrum,486,Mixed glioma,2013,no,black or african american,male,hispanic or latino,1,39,0,0,yes,yes
+TCGA-LGG,TCGA-DU-8162,9382/3,Cerebrum,121,Mixed glioma,2011,no,white,female,others,0,61,444,0,yes,yes
+TCGA-LGG,TCGA-DU-6407,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2001,no,white,female,others,0,35,2875,2008,no,yes
+TCGA-LGG,TCGA-TQ-A7RP,9382/3,Cerebrum,914,Mixed glioma,2012,no,black or african american,male,hispanic or latino,1,66,0,0,yes,yes
+TCGA-LGG,TCGA-TM-A84I,9401/3,Cerebrum,854,"Astrocytoma, anaplastic",2012,no,white,male,others,1,30,0,0,no,yes
+TCGA-LGG,TCGA-E1-A7YY,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",1998,no,white,female,others,0,27,4445,2010,yes,yes
+TCGA-LGG,TCGA-HT-A74O,9401/3,Cerebrum,3,"Astrocytoma, anaplastic",2013,no,white,male,others,1,34,0,0,no,no
+TCGA-LGG,TCGA-HT-7474,9382/3,Cerebrum,114,Mixed glioma,2011,no,white,male,others,1,52,0,0,no,no
+TCGA-LGG,TCGA-W9-A837,9450/3,Cerebrum,1553,"Oligodendroglioma, NOS",2010,no,white,male,others,1,47,0,0,no,no
+TCGA-LGG,TCGA-F6-A8O4,9400/3,"Brain, NOS",6,"Astrocytoma, NOS",2013,no,asian,male,others,1,44,0,0,no,no
+TCGA-LGG,TCGA-RY-A840,9451/3,Cerebrum,854,"Oligodendroglioma, anaplastic",2012,no,not reported,male,others,1,47,0,0,yes,no
+TCGA-LGG,TCGA-FG-A60L,9400/3,Cerebrum,655,"Astrocytoma, NOS",2012,no,white,female,others,1,34,0,0,no,no
+TCGA-LGG,TCGA-RY-A83X,9450/3,Cerebrum,939,"Oligodendroglioma, NOS",2012,no,white,female,others,1,46,0,0,no,no
+TCGA-LGG,TCGA-E1-A7YQ,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2000,no,black or african american,female,others,0,58,1578,2004,yes,yes
+TCGA-LGG,TCGA-S9-A7QW,9401/3,Cerebrum,458,"Astrocytoma, anaplastic",2013,no,white,female,others,1,54,0,0,no,yes
+TCGA-LGG,TCGA-FG-A4MU,9382/3,Cerebrum,326,Mixed glioma,2012,no,white,male,others,1,58,0,0,no,no
+TCGA-LGG,TCGA-QH-A6CU,9451/3,Cerebrum,451,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,52,0,0,yes,yes
+TCGA-LGG,TCGA-DH-A669,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2007,no,white,male,others,0,70,919,2009,yes,yes
+TCGA-LGG,TCGA-DB-A4XG,9451/3,Frontal lobe,2219,"Oligodendroglioma, anaplastic",2006,no,white,male,others,1,34,0,0,yes,no
+TCGA-LGG,TCGA-HT-A61C,9451/3,Cerebrum,103,"Oligodendroglioma, anaplastic",2013,no,white,male,others,0,66,537,0,yes,yes
+TCGA-LGG,TCGA-HT-7688,9451/3,Cerebrum,964,"Oligodendroglioma, anaplastic",2009,no,white,male,others,1,59,0,0,yes,yes
+TCGA-LGG,TCGA-KT-A7W1,9401/3,Cerebrum,438,"Astrocytoma, anaplastic",2013,no,white,female,others,1,45,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7874,9451/3,Cerebrum,1130,"Oligodendroglioma, anaplastic",2008,no,white,female,others,1,41,0,0,yes,yes
+TCGA-LGG,TCGA-F6-A8O3,9450/3,Cerebrum,7,"Oligodendroglioma, NOS",2013,no,asian,male,others,1,34,0,0,no,no
+TCGA-LGG,TCGA-S9-A7R8,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2004,no,white,female,others,0,44,961,2006,yes,yes
+TCGA-LGG,TCGA-S9-A7R1,9450/3,Cerebrum,5000,"Oligodendroglioma, NOS",1999,no,white,male,others,0,35,5166,0,yes,yes
+TCGA-LGG,TCGA-S9-A7QZ,9450/3,Cerebrum,826,"Oligodendroglioma, NOS",2012,no,white,male,others,1,41,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RI,9450/3,Cerebrum,62,"Oligodendroglioma, NOS",2012,no,white,female,hispanic or latino,1,37,0,0,no,no
+TCGA-LGG,TCGA-HT-7602,9450/3,"Brain, NOS",908,"Oligodendroglioma, NOS",2008,no,white,male,others,1,21,0,0,no,no
+TCGA-LGG,TCGA-FG-A87Q,9401/3,Cerebrum,174,"Astrocytoma, anaplastic",2013,no,white,female,others,1,61,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A5R7,9401/3,Cerebrum,615,"Astrocytoma, anaplastic",2012,no,white,female,others,1,33,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A5F0,9450/3,"Brain, NOS",287,"Oligodendroglioma, NOS",2012,no,white,male,others,1,33,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8018,9382/3,Cerebrum,654,Mixed glioma,2010,no,white,female,others,0,40,1152,0,yes,yes
+TCGA-LGG,TCGA-HT-8015,9400/3,Cerebrum,3,"Astrocytoma, NOS",2008,no,white,male,others,1,21,0,0,no,no
+TCGA-LGG,TCGA-DU-7299,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2006,no,white,male,others,0,33,1339,2009,yes,yes
+TCGA-LGG,TCGA-HT-8108,9450/3,Cerebrum,76,"Oligodendroglioma, NOS",2011,no,white,female,others,1,26,0,0,no,no
+TCGA-LGG,TCGA-DU-A76R,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2006,no,white,male,others,0,51,648,2007,yes,yes
+TCGA-LGG,TCGA-DH-A7US,9450/3,Cerebrum,706,"Oligodendroglioma, NOS",2013,no,white,male,others,1,50,0,0,no,no
+TCGA-LGG,TCGA-P5-A5EZ,9401/3,Cerebrum,70,"Astrocytoma, anaplastic",2012,no,white,male,others,1,39,0,0,no,no
+TCGA-LGG,TCGA-DU-7010,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2001,no,white,female,others,0,58,456,2002,yes,yes
+TCGA-LGG,TCGA-E1-5302,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",1998,no,white,male,others,0,41,1525,2002,yes,yes
+TCGA-LGG,TCGA-E1-5319,9450/3,"Brain, NOS",0,"Oligodendroglioma, NOS",1998,no,white,female,others,0,48,2907,2005,no,no
+TCGA-LGG,TCGA-DU-7301,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2006,no,white,male,others,0,53,788,2008,yes,yes
+TCGA-LGG,TCGA-TM-A7C5,9382/3,Cerebrum,1500,Mixed glioma,2010,no,white,male,others,1,30,0,0,no,yes
+TCGA-LGG,TCGA-DB-5279,9450/3,Cerebrum,1354,"Oligodendroglioma, NOS",2007,no,not reported,male,others,1,59,0,0,no,no
+TCGA-LGG,TCGA-TM-A84C,9400/3,Cerebrum,459,"Astrocytoma, NOS",2012,no,white,male,others,0,32,492,0,yes,no
+TCGA-LGG,TCGA-HT-A5RC,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2012,no,white,female,others,0,70,162,2012,yes,yes
+TCGA-LGG,TCGA-HT-7884,9400/3,Cerebrum,343,"Astrocytoma, NOS",2011,no,white,female,others,1,44,0,0,yes,yes
+TCGA-LGG,TCGA-FG-A87N,9401/3,Cerebrum,567,"Astrocytoma, anaplastic",2013,no,asian,female,others,1,37,0,0,yes,yes
+TCGA-LGG,TCGA-P5-A77X,9382/3,Cerebrum,105,Mixed glioma,2013,no,white,female,others,1,55,0,0,no,yes
+TCGA-LGG,TCGA-TM-A84O,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2011,no,white,female,others,0,61,1011,2013,no,yes
+TCGA-LGG,TCGA-DB-A64Q,9382/3,Cerebrum,182,Mixed glioma,2012,no,not reported,female,others,1,31,0,0,yes,no
+TCGA-LGG,TCGA-HW-A5KJ,9451/3,Cerebrum,860,"Oligodendroglioma, anaplastic",2012,no,white,male,others,0,68,962,0,yes,yes
+TCGA-LGG,TCGA-HW-A5KK,9401/3,Cerebrum,240,"Astrocytoma, anaplastic",2012,no,white,male,others,0,64,388,0,yes,yes
+TCGA-LGG,TCGA-E1-A7Z6,9400/3,Cerebrum,0,"Astrocytoma, NOS",2009,no,white,female,others,0,41,984,2011,yes,yes
+TCGA-LGG,TCGA-CS-6666,9401/3,"Brain, NOS",1428,"Astrocytoma, anaplastic",2010,no,white,male,others,1,22,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7485,9400/3,"Brain, NOS",122,"Astrocytoma, NOS",2006,no,white,male,others,1,42,0,0,no,no
+TCGA-LGG,TCGA-FG-6689,9400/3,Cerebrum,454,"Astrocytoma, NOS",2011,no,white,male,others,1,30,0,0,no,yes
+TCGA-LGG,TCGA-DU-6403,9382/3,Cerebrum,0,Mixed glioma,1999,no,white,female,others,0,60,354,1999,yes,yes
+TCGA-LGG,TCGA-DU-7007,9400/3,Cerebrum,0,"Astrocytoma, NOS",1997,no,white,male,others,0,33,1915,2002,no,no
+TCGA-LGG,TCGA-S9-A7R2,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2008,no,white,male,others,0,69,316,2008,no,yes
+TCGA-LGG,TCGA-S9-A6U6,9401/3,Cerebrum,1069,"Astrocytoma, anaplastic",2012,no,white,male,others,1,28,0,0,no,yes
+TCGA-LGG,TCGA-DB-A75P,9400/3,Cerebrum,492,"Astrocytoma, NOS",2013,no,not reported,female,others,1,25,0,0,no,no
+TCGA-LGG,TCGA-HT-7882,9451/3,Cerebrum,52,"Oligodendroglioma, anaplastic",2010,no,white,male,hispanic or latino,0,66,113,0,no,no
+TCGA-LGG,TCGA-DU-6405,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2000,no,white,female,others,0,51,605,2001,yes,yes
+TCGA-LGG,TCGA-DU-5847,9401/3,"Brain, NOS",548,"Astrocytoma, anaplastic",2009,no,white,female,others,1,34,0,0,yes,yes
+TCGA-LGG,TCGA-QH-A65S,9382/3,"Brain, NOS",77,Mixed glioma,2013,no,white,female,others,1,32,0,0,no,no
+TCGA-LGG,TCGA-HT-8012,9450/3,Cerebrum,286,"Oligodendroglioma, NOS",2010,no,white,female,others,1,30,0,0,no,no
+TCGA-LGG,TCGA-S9-A7QY,9382/3,Cerebrum,863,Mixed glioma,2012,no,white,female,others,1,35,0,0,yes,no
+TCGA-LGG,TCGA-S9-A7IY,9382/3,Cerebrum,715,Mixed glioma,2012,no,white,male,others,1,39,0,0,yes,yes
+TCGA-LGG,TCGA-CS-4943,9401/3,"Brain, NOS",552,"Astrocytoma, anaplastic",2009,no,white,male,others,0,37,1106,0,yes,no
+TCGA-LGG,TCGA-E1-A7YL,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2009,no,white,male,others,0,46,492,2010,yes,yes
+TCGA-LGG,TCGA-HT-8111,9382/3,Cerebrum,7,Mixed glioma,2011,no,white,male,others,1,32,0,0,no,no
+TCGA-LGG,TCGA-E1-A7Z4,9400/3,Cerebrum,0,"Astrocytoma, NOS",1999,no,white,male,others,0,35,4412,2011,yes,yes
+TCGA-LGG,TCGA-QH-A6X4,9382/3,Cerebrum,442,Mixed glioma,2013,no,white,male,others,1,47,0,0,yes,yes
+TCGA-LGG,TCGA-DH-A7UU,9401/3,Cerebrum,417,"Astrocytoma, anaplastic",2013,no,white,male,others,1,43,0,0,yes,yes
+TCGA-LGG,TCGA-CS-5394,9401/3,"Brain, NOS",8,"Astrocytoma, anaplastic",2005,no,white,male,others,1,40,0,0,no,no
+TCGA-LGG,TCGA-DU-6401,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",1998,no,white,female,others,0,31,2660,2005,no,yes
+TCGA-LGG,TCGA-E1-A7Z2,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2012,no,white,female,others,0,58,398,2013,yes,no
+TCGA-LGG,TCGA-FG-A70Z,9382/3,Cerebrum,328,Mixed glioma,2011,no,black or african american,female,others,1,53,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A64X,9401/3,Cerebrum,563,"Astrocytoma, anaplastic",2012,no,white,female,others,1,56,0,0,yes,yes
+TCGA-LGG,TCGA-E1-A7YO,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",1995,no,white,male,others,0,45,2282,2001,yes,no
+TCGA-LGG,TCGA-DB-A64U,9382/3,Cerebrum,846,Mixed glioma,2011,no,white,female,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-TM-A84L,9382/3,Cerebrum,0,Mixed glioma,2010,no,white,male,others,0,31,1242,2013,no,no
+TCGA-LGG,TCGA-HT-8558,9450/3,Cerebrum,418,"Oligodendroglioma, NOS",2011,no,white,female,others,1,29,0,0,no,no
+TCGA-LGG,TCGA-DU-A6S8,9451/3,Cerebrum,678,"Oligodendroglioma, anaplastic",2013,no,white,female,others,1,74,0,0,yes,no
+TCGA-LGG,TCGA-DB-5276,9382/3,Cerebrum,2218,Mixed glioma,2007,no,white,male,others,1,32,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8019,9451/3,Cerebrum,1004,"Oligodendroglioma, anaplastic",2009,no,white,female,others,1,34,0,0,yes,yes
+TCGA-LGG,TCGA-HT-8113,9450/3,Cerebrum,900,"Oligodendroglioma, NOS",2006,no,black or african american,female,others,1,49,0,0,yes,yes
+TCGA-LGG,TCGA-DU-5852,9382/3,"Brain, NOS",0,Mixed glioma,2010,no,white,female,others,0,61,205,2010,no,no
+TCGA-LGG,TCGA-HT-7676,9450/3,Cerebrum,5,"Oligodendroglioma, NOS",2009,no,white,male,others,1,26,0,0,no,no
+TCGA-LGG,TCGA-CS-6186,9382/3,"Brain, NOS",0,Mixed glioma,2009,no,white,male,others,0,58,538,2010,yes,yes
+TCGA-LGG,TCGA-E1-A7YH,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2005,no,white,female,others,0,47,2835,2012,yes,yes
+TCGA-LGG,TCGA-DU-A7T6,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2002,no,white,female,others,0,73,547,2003,no,no
+TCGA-LGG,TCGA-IK-8125,9382/3,Cerebrum,1301,Mixed glioma,2009,no,white,male,others,1,62,0,0,yes,yes
+TCGA-LGG,TCGA-E1-5305,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",2000,no,white,male,others,0,34,2433,2006,no,yes
+TCGA-LGG,TCGA-S9-A6WG,9401/3,Cerebrum,2602,"Astrocytoma, anaplastic",2007,no,white,male,others,1,31,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7300,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2006,no,white,female,others,0,53,1886,2011,yes,no
+TCGA-LGG,TCGA-S9-A6WO,9400/3,Cerebrum,566,"Astrocytoma, NOS",2013,no,white,male,others,1,29,0,0,no,yes
+TCGA-LGG,TCGA-S9-A6U0,9401/3,Cerebrum,698,"Astrocytoma, anaplastic",2012,no,white,male,others,0,46,742,0,yes,yes
+TCGA-LGG,TCGA-P5-A735,9400/3,Cerebrum,292,"Astrocytoma, NOS",2013,no,white,female,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-HT-A74K,9451/3,Cerebrum,467,"Oligodendroglioma, anaplastic",2012,no,white,female,others,1,58,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A6WN,9401/3,Cerebrum,805,"Astrocytoma, anaplastic",2013,no,white,female,others,1,38,0,0,yes,yes
+TCGA-LGG,TCGA-HT-A618,9401/3,Cerebrum,512,"Astrocytoma, anaplastic",2013,no,white,female,others,1,37,0,0,yes,yes
+TCGA-LGG,TCGA-DU-A6S7,9401/3,Cerebrum,638,"Astrocytoma, anaplastic",2013,no,white,female,others,1,27,0,0,yes,yes
+TCGA-LGG,TCGA-CS-6668,9450/3,"Brain, NOS",1519,"Oligodendroglioma, NOS",2011,no,white,female,others,1,57,0,0,yes,no
+TCGA-LGG,TCGA-S9-A6U1,9401/3,Cerebrum,785,"Astrocytoma, anaplastic",2012,no,white,female,others,1,22,0,0,yes,no
+TCGA-LGG,TCGA-IK-7675,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2009,no,white,male,hispanic or latino,0,43,578,2010,no,yes
+TCGA-LGG,TCGA-VM-A8C8,9450/3,Cerebrum,1397,"Oligodendroglioma, NOS",2011,no,white,female,others,1,50,0,0,yes,yes
+TCGA-LGG,TCGA-S9-A7R7,9400/3,Cerebrum,3000,"Astrocytoma, NOS",2006,no,white,male,others,1,27,0,0,yes,yes
+TCGA-LGG,TCGA-E1-5307,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",2000,no,white,female,others,0,62,1762,2004,yes,yes
+TCGA-LGG,TCGA-DU-7014,9450/3,Cerebrum,0,"Oligodendroglioma, NOS",2001,no,white,male,others,0,59,3571,2010,no,yes
+TCGA-LGG,TCGA-S9-A7IX,9401/3,Cerebrum,679,"Astrocytoma, anaplastic",2012,no,white,male,others,0,57,819,0,yes,yes
+TCGA-LGG,TCGA-FG-A60K,9382/3,Cerebrum,542,Mixed glioma,2012,no,white,female,others,1,34,0,0,no,no
+TCGA-LGG,TCGA-HW-7491,9450/3,Cerebrum,2078,"Oligodendroglioma, NOS",2009,no,white,male,others,1,35,0,0,yes,no
+TCGA-LGG,TCGA-QH-A86X,9450/3,Cerebrum,337,"Oligodendroglioma, NOS",2013,no,white,male,others,1,33,0,0,no,no
+TCGA-LGG,TCGA-HT-7479,9401/3,"Brain, NOS",1227,"Astrocytoma, anaplastic",2011,no,white,male,others,1,44,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7616,9451/3,"Brain, NOS",0,"Oligodendroglioma, anaplastic",2007,no,white,male,others,0,75,7,2007,no,no
+TCGA-LGG,TCGA-P5-A736,9401/3,Cerebrum,230,"Astrocytoma, anaplastic",2013,no,white,female,others,1,44,0,0,no,yes
+TCGA-LGG,TCGA-HT-8110,9401/3,Cerebrum,419,"Astrocytoma, anaplastic",2011,no,white,male,others,1,57,0,0,no,yes
+TCGA-LGG,TCGA-FG-6690,9450/3,Cerebrum,1294,"Oligodendroglioma, NOS",2011,no,white,male,others,1,70,0,0,no,yes
+TCGA-LGG,TCGA-QH-A65V,9450/3,Cerebrum,384,"Oligodendroglioma, NOS",2013,no,white,female,others,1,43,0,0,yes,no
+TCGA-LGG,TCGA-FG-A4MX,9400/3,Frontal lobe,569,"Astrocytoma, NOS",2012,no,white,male,others,1,47,0,0,no,yes
+TCGA-LGG,TCGA-CS-6667,9400/3,"Brain, NOS",1469,"Astrocytoma, NOS",2010,no,white,female,others,1,39,0,0,no,yes
+TCGA-LGG,TCGA-DB-5273,9401/3,Cerebrum,2493,"Astrocytoma, anaplastic",2006,no,white,male,others,1,33,0,0,yes,yes
+TCGA-LGG,TCGA-FG-A6J3,9401/3,Cerebrum,677,"Astrocytoma, anaplastic",2012,no,white,female,others,1,52,0,0,yes,yes
+TCGA-LGG,TCGA-DB-A4XA,9382/3,Temporal lobe,573,Mixed glioma,2012,no,white,male,others,1,30,0,0,no,yes
+TCGA-LGG,TCGA-HT-7684,9382/3,Cerebrum,184,Mixed glioma,2008,no,white,male,others,1,58,0,0,no,no
+TCGA-LGG,TCGA-S9-A6U8,9400/3,Cerebrum,2878,"Astrocytoma, NOS",2005,no,white,male,others,0,24,2988,0,no,yes
+TCGA-LGG,TCGA-TQ-A7RU,9450/3,Cerebrum,1032,"Oligodendroglioma, NOS",2011,no,white,male,hispanic or latino,1,51,0,0,no,no
+TCGA-LGG,TCGA-S9-A6TZ,9400/3,Cerebrum,1120,"Astrocytoma, NOS",2011,no,white,female,others,1,39,0,0,no,yes
+TCGA-LGG,TCGA-DH-A7UT,9401/3,Cerebrum,407,"Astrocytoma, anaplastic",2013,no,white,male,others,0,30,531,0,yes,yes
+TCGA-LGG,TCGA-FG-7636,9401/3,Cerebrum,544,"Astrocytoma, anaplastic",2011,no,white,male,others,1,48,0,0,yes,yes
+TCGA-LGG,TCGA-TM-A84J,9451/3,Cerebrum,735,"Oligodendroglioma, anaplastic",2012,no,white,male,others,1,63,0,0,yes,yes
+TCGA-LGG,TCGA-DH-A7UR,9451/3,Cerebrum,1650,"Oligodendroglioma, anaplastic",2008,no,white,female,others,1,59,0,0,yes,yes
+TCGA-LGG,TCGA-VM-A8CD,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2012,no,white,male,others,0,58,240,2012,no,yes
+TCGA-LGG,TCGA-HT-7603,9450/3,"Brain, NOS",705,"Oligodendroglioma, NOS",2008,no,white,male,others,1,29,0,0,no,yes
+TCGA-LGG,TCGA-QH-A6CZ,9382/3,Cerebrum,279,Mixed glioma,2013,no,white,male,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-QH-A6X3,9382/3,Cerebrum,313,Mixed glioma,2013,no,white,male,others,1,27,0,0,no,no
+TCGA-LGG,TCGA-HT-7858,9400/3,Cerebrum,1540,"Astrocytoma, NOS",2007,no,white,male,others,1,28,0,0,no,yes
+TCGA-LGG,TCGA-CS-5396,9451/3,"Brain, NOS",1631,"Oligodendroglioma, anaplastic",2010,no,white,female,others,1,53,0,0,yes,yes
+TCGA-LGG,TCGA-FG-7643,9382/3,Cerebrum,611,Mixed glioma,2011,no,white,female,others,1,49,0,0,no,no
+TCGA-LGG,TCGA-S9-A7R3,9400/3,Cerebrum,3013,"Astrocytoma, NOS",2006,no,white,female,others,1,28,0,0,no,no
+TCGA-LGG,TCGA-DB-5270,9382/3,Cerebrum,3733,Mixed glioma,2002,no,white,female,others,1,38,0,0,no,no
+TCGA-LGG,TCGA-DU-8158,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2001,no,white,female,others,0,57,155,2001,no,no
+TCGA-LGG,TCGA-DU-5854,9401/3,"Brain, NOS",257,"Astrocytoma, anaplastic",2010,no,white,female,others,1,57,0,0,yes,yes
+TCGA-LGG,TCGA-DU-8161,9382/3,Cerebrum,0,Mixed glioma,2009,no,white,female,others,0,63,722,2010,yes,yes
+TCGA-LGG,TCGA-HT-7469,9451/3,Cerebrum,238,"Oligodendroglioma, anaplastic",2011,no,white,male,others,0,30,351,0,yes,yes
+TCGA-LGG,TCGA-DB-A75L,9401/3,Cerebrum,342,"Astrocytoma, anaplastic",2013,no,white,female,others,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-DU-A7TJ,9401/3,Cerebrum,17,"Astrocytoma, anaplastic",2013,no,black or african american,male,others,1,55,0,0,no,no
+TCGA-LGG,TCGA-DU-A6S2,9450/3,Cerebrum,777,"Oligodendroglioma, NOS",2013,no,black or african american,female,others,1,37,0,0,no,no
+TCGA-LGG,TCGA-HT-8106,9401/3,Cerebrum,3,"Astrocytoma, anaplastic",2010,no,white,male,others,1,53,0,0,no,no
+TCGA-LGG,TCGA-E1-A7YK,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2009,no,white,male,others,0,52,378,2010,yes,yes
+TCGA-LGG,TCGA-DB-5275,9382/3,Cerebrum,1458,Mixed glioma,2006,no,white,male,others,1,36,0,0,yes,yes
+TCGA-LGG,TCGA-HW-8319,9401/3,Cerebrum,660,"Astrocytoma, anaplastic",2011,no,white,female,others,0,34,1209,0,yes,yes
+TCGA-LGG,TCGA-E1-A7YJ,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2008,no,white,male,others,0,55,592,2009,yes,yes
+TCGA-LGG,TCGA-E1-A7YN,9401/3,Cerebrum,0,"Astrocytoma, anaplastic",2010,no,white,female,others,0,63,727,2011,yes,yes
+TCGA-LGG,TCGA-CS-5397,9401/3,"Brain, NOS",0,"Astrocytoma, anaplastic",2010,no,white,female,others,0,54,194,2010,yes,yes
+TCGA-LGG,TCGA-HT-7609,9382/3,Cerebrum,1399,Mixed glioma,2007,no,white,male,others,1,34,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7481,9450/3,"Brain, NOS",2918,"Oligodendroglioma, NOS",2006,no,white,male,others,1,39,0,0,no,yes
+TCGA-LGG,TCGA-FG-A60J,9382/3,Cerebrum,449,Mixed glioma,2012,no,white,female,others,1,47,0,0,no,no
+TCGA-LGG,TCGA-TQ-A7RN,9450/3,Cerebrum,1026,"Oligodendroglioma, NOS",2011,no,white,male,hispanic or latino,1,32,0,0,yes,yes
+TCGA-LGG,TCGA-DU-6404,9451/3,Cerebrum,0,"Oligodendroglioma, anaplastic",2000,no,white,female,others,0,24,4068,2011,yes,yes
+TCGA-LGG,TCGA-DU-6406,9382/3,Cerebrum,0,Mixed glioma,2001,no,white,female,others,0,59,512,2002,yes,yes
+TCGA-LGG,TCGA-HT-A619,9451/3,Cerebrum,651,"Oligodendroglioma, anaplastic",2012,yes,asian,female,others,1,51,0,0,yes,no
+TCGA-LGG,TCGA-CS-6665,9401/3,"Brain, NOS",1568,"Astrocytoma, anaplastic",2010,no,white,female,others,1,51,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7856,9451/3,Cerebrum,1189,"Oligodendroglioma, anaplastic",2008,no,white,male,others,1,35,0,0,yes,yes
+TCGA-LGG,TCGA-QH-A65Z,9450/3,Cerebrum,427,"Oligodendroglioma, NOS",2013,no,white,male,others,1,54,0,0,yes,yes
+TCGA-LGG,TCGA-DU-7306,9382/3,Cerebrum,1277,Mixed glioma,2008,no,white,male,others,1,67,0,0,yes,yes
+TCGA-LGG,TCGA-HT-7873,9382/3,Cerebrum,718,Mixed glioma,2011,no,white,male,others,1,29,0,0,no,yes
+TCGA-LGG,TCGA-HW-7490,9400/3,Cerebrum,1387,"Astrocytoma, NOS",2011,no,white,male,others,1,41,0,0,no,no
+TCGA-LGG,TCGA-FG-7637,9382/3,Cerebrum,1219,Mixed glioma,2009,no,white,male,others,1,49,0,0,no,no
+TCGA-LGG,TCGA-S9-A6TW,9451/3,Cerebrum,1250,"Oligodendroglioma, anaplastic",2011,no,white,male,others,1,40,0,0,yes,no
